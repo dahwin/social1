@@ -1,0 +1,443 @@
+{
+    "search_metadata": {
+        "id": "6560c0acb5961ef24b8a5938",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4c0a31c199de74c6/6560c0acb5961ef24b8a5938.json",
+        "created_at": "2023-11-24 15:26:36 UTC",
+        "processed_at": "2023-11-24 15:26:36 UTC",
+        "google_url": "https://www.google.com/search?q=when+twice+will+disband&oq=when+twice+will+disband&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/4c0a31c199de74c6/6560c0acb5961ef24b8a5938.html",
+        "total_time_taken": 5.41
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "when twice will disband",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "when twice will disband",
+        "total_results": 2250000,
+        "time_taken_displayed": 0.34,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=585073649&q=when+twice+will+disband&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=when+twice+will+disband&tbm=nws"
+            },
+            {
+                "position": 2,
+                "title": "2023",
+                "link": "https://www.google.com/search?sca_esv=585073649&q=When+twice+will+disband+2023&uds=H4sIAAAAAAAA_-Oy52IxMjAyFhIvz0jNUygpz0xOVSjPzMlRSMksTkrMSzEQKpIJxy6lANJohEsjAKlvOBFaAAAA&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQxKsJegQIChAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+twice+will+disband+2023"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=585073649&q=when+twice+will+disband&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ0pQJegQICRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=when+twice+will+disband"
+            },
+            {
+                "position": 4,
+                "title": "Date",
+                "link": "https://www.google.com/search?sca_esv=585073649&q=When+twice+will+disband+date&uds=H4sIAAAAAAAA_-Oy52JxSSxJFRIvz0jNUygpz0xOVSjPzMlRSMksTkrMSzEQKpIJxy6lkALUaIRLIwAm8TARWgAAAA&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQxKsJegQICBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+twice+will+disband+date"
+            },
+            {
+                "position": 5,
+                "title": "Reddit",
+                "link": "https://www.google.com/search?sca_esv=585073649&q=When+twice+will+disband+reddit&uds=H4sIAAAAAAAA_-Ny5mILSk1JySwREi_PSM1TKCnPTE5VKM_MyVFIySxOSsxLMRAqkgvHLqVQBNZqhEsrAErUIKleAAAA&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQxKsJegQIThAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+twice+will+disband+reddit"
+            },
+            {
+                "position": 6,
+                "title": "Bts",
+                "link": "https://www.google.com/search?sca_esv=585073649&q=When+twice+will+disband+bts&uds=H4sIAAAAAAAA_-Oy5WJ2KikWEi_PSM1TKCnPTE5VKM_MyVFIySxOSsxLMRAqkg7HLqWQVFJshEsfAFZDgBpYAAAA&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQxKsJegQITBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+twice+will+disband+bts"
+            },
+            {
+                "position": 7,
+                "title": "Month",
+                "link": "https://www.google.com/search?sca_esv=585073649&q=When+will+twice+disband+month%3F&uds=H4sIAAAAAAAA_-Ny4mL1zc8ryRASL89IzVMoKc9MTlUoz8zJUUjJLE5KzEsxYCySCwdJgQUh8lAphVyQTnsjXFoBhWMYal0AAAA&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQxKsJegQITRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+will+twice+disband+month%3F"
+            },
+            {
+                "position": 8,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=585073649&q=when+twice+will+disband&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ0pQJegQISxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=when+twice+will+disband"
+            },
+            {
+                "position": 9,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=585073649&q=when+twice+will+disband&tbm=shop&source=lnms&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ0pQJegQITxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=when+twice+will+disband"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Is Twice being disbanded?",
+            "snippet": "All nine members of Twice renewed their contracts with JYP Entertainment, according to the agency on Tuesday. The recent announcement sets the girl group free from the \"seven-year curse\" of the K-pop industry, as many acts see members leave or even disband completely after their seven-year contracts terminate.",
+            "title": "All nine members of Twice renew their contracts with JYP ...",
+            "date": "Jul 12, 2022",
+            "link": "https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html#:~:text=All%20nine%20members%20of%20Twice%20renewed%20their%20contracts%20with%20JYP,their%20seven%2Dyear%20contracts%20terminate.",
+            "displayed_link": "https://koreajoongangdaily.joins.com \u203a kpop \u203a Korea-...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBnhr4LOEavotb3-Jxuk9FXFvjHBkp03Cx0yrMb5sCQQ&s",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptcENVa3Q1Vlc1U09YUktiRzlOYVdsM05uTnpiVzF3VVdrelVtdFBjRWR5YlhjNVJFTm9lazgzUzFCdFdHTlVSbkU1UkRKWVgyeHVSM04xT1VGYWJWaExaV0ptRWhkelRVSm5XbGxZZVU4MFJETnJVRWxRZUUxcFRHMUJaeG9pUVVwM2F5MDRaRWxxU25ob1MwdEVTa2t0Um1JdE1qTnVjMWd5U0VKNVlURmxkdyIsImZjdiI6IjMiLCJlaSI6InNNQmdaWVh5TzREM2tQSVB4TWlMbUFnIiwicWMiOiJDaGQzYUdWdUlIUjNhV05sSUhkcGJHd2daR2x6WW1GdVpCQUFmUnJKOEQ0IiwicXVlc3Rpb24iOiJJcyBUd2ljZSBiZWluZyBkaXNiYW5kZWQ/IiwibGsiOiJHaGhwY3lCMGQybGpaU0JpWldsdVp5QmthWE5pWVc1a1pXUSIsImJzIjoiYy1PUzQ1TDBMRllJS2M5TVRsVklTczNNUzFkSXlTeE9Tc3hMU1UyeGw1aVR6S1hDSlItZWthLVFrNXBXb2xDU2thcmdyVnVRWDZDUVhwUmZXZ0RSWlNfUkc4OGx6eVhsa3A4S015Y2pzU3hWd1ZJaE56VTNLYldvMkY2aVJaaExrMHNsUENPeFJLRThNeWNIcWlvbFh5RXhyU1MxQ0dZaDBHNTdpU19KQW93QSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptcENVa3Q1Vlc1U09YUktiRzlOYVdsM05uTnpiVzF3VVdrelVtdFBjRWR5YlhjNVJFTm9lazgzUzFCdFdHTlVSbkU1UkRKWVgyeHVSM04xT1VGYWJWaExaV0ptRWhkelRVSm5XbGxZZVU4MFJETnJVRWxRZUUxcFRHMUJaeG9pUVVwM2F5MDRaRWxxU25ob1MwdEVTa2t0Um1JdE1qTnVjMWd5U0VKNVlURmxkdyIsImZjdiI6IjMiLCJlaSI6InNNQmdaWVh5TzREM2tQSVB4TWlMbUFnIiwicWMiOiJDaGQzYUdWdUlIUjNhV05sSUhkcGJHd2daR2x6WW1GdVpCQUFmUnJKOEQ0IiwicXVlc3Rpb24iOiJJcyBUd2ljZSBiZWluZyBkaXNiYW5kZWQ%2FIiwibGsiOiJHaGhwY3lCMGQybGpaU0JpWldsdVp5QmthWE5pWVc1a1pXUSIsImJzIjoiYy1PUzQ1TDBMRllJS2M5TVRsVklTczNNUzFkSXlTeE9Tc3hMU1UyeGw1aVR6S1hDSlItZWthLVFrNXBXb2xDU2thcmdyVnVRWDZDUVhwUmZXZ0RSWlNfUkc4OGx6eVhsa3A4S015Y2pzU3hWd1ZJaE56VTNLYldvMkY2aVJaaExrMHNsUENPeFJLRThNeWNIcWlvbFh5RXhyU1MxQ0dZaDBHNTdpU19KQW93QSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "Who left the K-pop group Twice?",
+            "snippet": "After news of former member Dahyun joining NewJeans, TWICE releases new image on Instagram to formally announce her leaving TWICE.",
+            "title": "After news of former member Dahyun joining NewJeans, TWICE releases ...",
+            "date": "Apr 1, 2023",
+            "link": "https://www.reddit.com/r/kpop/comments/128eoh1/after_news_of_former_member_dahyun_joining/#:~:text=PacaMinus-,After%20news%20of%20former%20member%20Dahyun%20joining%20NewJeans%2C%20TWICE%20releases,formally%20announce%20her%20leaving%20TWICE.",
+            "displayed_link": "https://www.reddit.com \u203a kpop \u203a comments \u203a after_news...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKWwLc6nOoLJMV0onX4FyjNIshKdEO1fe__f2W66GVg&s",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptcENVa3Q1Vlc1U09YUktiRzlOYVdsM05uTnpiVzF3VVdrelVtdFBjRWR5YlhjNVJFTm9lazgzUzFCdFdHTlVSbkU1UkRKWVgyeHVSM04xT1VGYWJWaExaV0ptRWhkelRVSm5XbGxZZVU4MFJETnJVRWxRZUUxcFRHMUJaeG9pUVVwM2F5MDRaRWxxU25ob1MwdEVTa2t0Um1JdE1qTnVjMWd5U0VKNVlURmxkdyIsImZjdiI6IjMiLCJlaSI6InNNQmdaWVh5TzREM2tQSVB4TWlMbUFnIiwicWMiOiJDaGQzYUdWdUlIUjNhV05sSUhkcGJHd2daR2x6WW1GdVpCQUFmUnJKOEQ0IiwicXVlc3Rpb24iOiJXaG8gbGVmdCB0aGUgSy1wb3AgZ3JvdXAgVHdpY2U/IiwibGsiOiJHaDEzYUc4Z2JHVm1kQ0IwYUdVZ2EzQnZjQ0JuY205MWNDQjBkMmxqWlEiLCJicyI6ImMtT1M0NUwwTEZZSUtjOU1UbFZJU3MzTVMxZEl5U3hPU3N4TFNVMnhsNWlUektYQ0pSLWVrYS1RazVwV29sQ1NrYXJnclZ1UVg2Q1FYcFJmV2dEUlpTX1JHODhsenlYbGtwOEtNeWNqc1N4VndWSWhOelUzS2JXbzJGNmlSWmhMazBzbFBDT3hSS0U4TXljSHFpb2xYeUV4clNTMUNHWWgwRzU3aVNfSkFvd0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptcENVa3Q1Vlc1U09YUktiRzlOYVdsM05uTnpiVzF3VVdrelVtdFBjRWR5YlhjNVJFTm9lazgzUzFCdFdHTlVSbkU1UkRKWVgyeHVSM04xT1VGYWJWaExaV0ptRWhkelRVSm5XbGxZZVU4MFJETnJVRWxRZUUxcFRHMUJaeG9pUVVwM2F5MDRaRWxxU25ob1MwdEVTa2t0Um1JdE1qTnVjMWd5U0VKNVlURmxkdyIsImZjdiI6IjMiLCJlaSI6InNNQmdaWVh5TzREM2tQSVB4TWlMbUFnIiwicWMiOiJDaGQzYUdWdUlIUjNhV05sSUhkcGJHd2daR2x6WW1GdVpCQUFmUnJKOEQ0IiwicXVlc3Rpb24iOiJXaG8gbGVmdCB0aGUgSy1wb3AgZ3JvdXAgVHdpY2U%2FIiwibGsiOiJHaDEzYUc4Z2JHVm1kQ0IwYUdVZ2EzQnZjQ0JuY205MWNDQjBkMmxqWlEiLCJicyI6ImMtT1M0NUwwTEZZSUtjOU1UbFZJU3MzTVMxZEl5U3hPU3N4TFNVMnhsNWlUektYQ0pSLWVrYS1RazVwV29sQ1NrYXJnclZ1UVg2Q1FYcFJmV2dEUlpTX1JHODhsenlYbGtwOEtNeWNqc1N4VndWSWhOelUzS2JXbzJGNmlSWmhMazBzbFBDT3hSS0U4TXljSHFpb2xYeUV4clNTMUNHWWgwRzU3aVNfSkFvd0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Does Twice have 9 members?",
+            "snippet": "Twice is a nine member K-pop girl group under JYP Entertainment. The group was initially formed on the competition show \"Sixteen\" in 2015.",
+            "title": "Get to know Twice: A guide to the K-pop girl group's members, tour",
+            "date": "Mar 9, 2023",
+            "link": "https://www.usatoday.com/story/entertainment/music/2023/03/09/twice-girl-group-profile-members-releases-awards/11425987002/#:~:text=Twice%20is%20a%20nine%20member,show%20%22Sixteen%22%20in%202015.",
+            "displayed_link": "https://www.usatoday.com \u203a story \u203a music \u203a 2023/03/09",
+            "thumbnail": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/b69a51385fe1402a5f49e2328a55c37c50d0f4e589c2466e337517f595fbb1bc.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptcENVa3Q1Vlc1U09YUktiRzlOYVdsM05uTnpiVzF3VVdrelVtdFBjRWR5YlhjNVJFTm9lazgzUzFCdFdHTlVSbkU1UkRKWVgyeHVSM04xT1VGYWJWaExaV0ptRWhkelRVSm5XbGxZZVU4MFJETnJVRWxRZUUxcFRHMUJaeG9pUVVwM2F5MDRaRWxxU25ob1MwdEVTa2t0Um1JdE1qTnVjMWd5U0VKNVlURmxkdyIsImZjdiI6IjMiLCJlaSI6InNNQmdaWVh5TzREM2tQSVB4TWlMbUFnIiwicWMiOiJDaGQzYUdWdUlIUjNhV05sSUhkcGJHd2daR2x6WW1GdVpCQUFmUnJKOEQ0IiwicXVlc3Rpb24iOiJEb2VzIFR3aWNlIGhhdmUgOSBtZW1iZXJzPyIsImxrIjoiR2hsa2IyVnpJSFIzYVdObElHaGhkbVVnT1NCdFpXMWlaWEp6IiwiYnMiOiJjLU9TNDVMMExGWUlLYzlNVGxWSVNzM01TMWRJeVN4T1NzeExTVTJ4bDVpVHpLWENKUi1la2EtUWs1cFdvbENTa2FyZ3JWdVFYNkNRWHBSZldnRFJaU19SRzg4bHp5WGxrcDhLTXljanNTeFZ3VkloTnpVM0tiV28yRjZpUlpoTGswc2xQQ094UktFOE15Y0hxaW9sWHlFeHJTUzFDR1loMEc1N2lTX0pBb3dBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptcENVa3Q1Vlc1U09YUktiRzlOYVdsM05uTnpiVzF3VVdrelVtdFBjRWR5YlhjNVJFTm9lazgzUzFCdFdHTlVSbkU1UkRKWVgyeHVSM04xT1VGYWJWaExaV0ptRWhkelRVSm5XbGxZZVU4MFJETnJVRWxRZUUxcFRHMUJaeG9pUVVwM2F5MDRaRWxxU25ob1MwdEVTa2t0Um1JdE1qTnVjMWd5U0VKNVlURmxkdyIsImZjdiI6IjMiLCJlaSI6InNNQmdaWVh5TzREM2tQSVB4TWlMbUFnIiwicWMiOiJDaGQzYUdWdUlIUjNhV05sSUhkcGJHd2daR2x6WW1GdVpCQUFmUnJKOEQ0IiwicXVlc3Rpb24iOiJEb2VzIFR3aWNlIGhhdmUgOSBtZW1iZXJzPyIsImxrIjoiR2hsa2IyVnpJSFIzYVdObElHaGhkbVVnT1NCdFpXMWlaWEp6IiwiYnMiOiJjLU9TNDVMMExGWUlLYzlNVGxWSVNzM01TMWRJeVN4T1NzeExTVTJ4bDVpVHpLWENKUi1la2EtUWs1cFdvbENTa2FyZ3JWdVFYNkNRWHBSZldnRFJaU19SRzg4bHp5WGxrcDhLTXljanNTeFZ3VkloTnpVM0tiV28yRjZpUlpoTGswc2xQQ094UktFOE15Y0hxaW9sWHlFeHJTUzFDR1loMEc1N2lTX0pBb3dBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What will Twice do after disbanding?",
+            "snippet": "Jihyo and Nayeon will go solo, possibly still under JYP. Tzuyu and Mina will model, but mostly just lay low and post to social media. Dahyun will start acting. Chaeyoung will become an independent rapper or join a company to debut as one.",
+            "title": "If Twice disbands, what do think the members will do? - Reddit",
+            "date": "Apr 1, 2022",
+            "link": "https://www.reddit.com/r/kpophelp/comments/tu3mi5/if_twice_disbands_what_do_think_the_members_will/#:~:text=Jihyo%20and%20Nayeon%20will%20go,company%20to%20debut%20as%20one.",
+            "displayed_link": "https://www.reddit.com \u203a kpophelp \u203a comments \u203a if_twi...",
+            "thumbnail": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/b69a51385fe1402a5f49e2328a55c37c4479a1071a9701dbdde27912be998806.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptcENVa3Q1Vlc1U09YUktiRzlOYVdsM05uTnpiVzF3VVdrelVtdFBjRWR5YlhjNVJFTm9lazgzUzFCdFdHTlVSbkU1UkRKWVgyeHVSM04xT1VGYWJWaExaV0ptRWhkelRVSm5XbGxZZVU4MFJETnJVRWxRZUUxcFRHMUJaeG9pUVVwM2F5MDRaRWxxU25ob1MwdEVTa2t0Um1JdE1qTnVjMWd5U0VKNVlURmxkdyIsImZjdiI6IjMiLCJlaSI6InNNQmdaWVh5TzREM2tQSVB4TWlMbUFnIiwicWMiOiJDaGQzYUdWdUlIUjNhV05sSUhkcGJHd2daR2x6WW1GdVpCQUFmUnJKOEQ0IiwicXVlc3Rpb24iOiJXaGF0IHdpbGwgVHdpY2UgZG8gYWZ0ZXIgZGlzYmFuZGluZz8iLCJsayI6IkdpTjNhR0YwSUhkcGJHd2dkSGRwWTJVZ1pHOGdZV1owWlhJZ1pHbHpZbUZ1WkdsdVp3IiwiYnMiOiJjLU9TNDVMMExGWUlLYzlNVGxWSVNzM01TMWRJeVN4T1NzeExTVTJ4bDVpVHpLWENKUi1la2EtUWs1cFdvbENTa2FyZ3JWdVFYNkNRWHBSZldnRFJaU19SRzg4bHp5WGxrcDhLTXljanNTeFZ3VkloTnpVM0tiV28yRjZpUlpoTGswc2xQQ094UktFOE15Y0hxaW9sWHlFeHJTUzFDR1loMEc1N2lTX0pBb3dBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptcENVa3Q1Vlc1U09YUktiRzlOYVdsM05uTnpiVzF3VVdrelVtdFBjRWR5YlhjNVJFTm9lazgzUzFCdFdHTlVSbkU1UkRKWVgyeHVSM04xT1VGYWJWaExaV0ptRWhkelRVSm5XbGxZZVU4MFJETnJVRWxRZUUxcFRHMUJaeG9pUVVwM2F5MDRaRWxxU25ob1MwdEVTa2t0Um1JdE1qTnVjMWd5U0VKNVlURmxkdyIsImZjdiI6IjMiLCJlaSI6InNNQmdaWVh5TzREM2tQSVB4TWlMbUFnIiwicWMiOiJDaGQzYUdWdUlIUjNhV05sSUhkcGJHd2daR2x6WW1GdVpCQUFmUnJKOEQ0IiwicXVlc3Rpb24iOiJXaGF0IHdpbGwgVHdpY2UgZG8gYWZ0ZXIgZGlzYmFuZGluZz8iLCJsayI6IkdpTjNhR0YwSUhkcGJHd2dkSGRwWTJVZ1pHOGdZV1owWlhJZ1pHbHpZbUZ1WkdsdVp3IiwiYnMiOiJjLU9TNDVMMExGWUlLYzlNVGxWSVNzM01TMWRJeVN4T1NzeExTVTJ4bDVpVHpLWENKUi1la2EtUWs1cFdvbENTa2FyZ3JWdVFYNkNRWHBSZldnRFJaU19SRzg4bHp5WGxrcDhLTXljanNTeFZ3VkloTnpVM0tiV28yRjZpUlpoTGswc2xQQ094UktFOE15Y0hxaW9sWHlFeHJTUzFDR1loMEc1N2lTX0pBb3dBIiwiaWQiOiJmY18xIn0%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Is Twice getting disbanded?",
+            "link": "https://www.quora.com/Is-Twice-getting-disbanded",
+            "displayed_link": "https://www.quora.com \u203a Is-Twice-getting-disbanded",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc4005fd98cb45d9048470a550ee65420f5.png",
+            "date": "Aug 28, 2022",
+            "snippet": "There's a possibility they will, their contract will end in 2022. Whether they decide to renew it or not, we should respect and understand their ...",
+            "snippet_highlighted_words": [
+                "contract will end in 2022"
+            ],
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "When is Twice going to disband?",
+                        "link": "https://www.quora.com/When-is-Twice-going-to-disband",
+                        "answer_count": 6,
+                        "date": "Apr 24, 2021"
+                    },
+                    {
+                        "title": "Is Twice disbanding in 2022?",
+                        "link": "https://www.quora.com/Is-Twice-disbanding-in-2022",
+                        "answer_count": 5,
+                        "date": "Feb 21, 2021"
+                    },
+                    {
+                        "title": "How long will TWICE last?",
+                        "link": "https://www.quora.com/How-long-will-TWICE-last",
+                        "answer_count": 3,
+                        "date": "May 24, 2019"
+                    },
+                    {
+                        "title": "What will happen if Twice disband?",
+                        "link": "https://www.quora.com/What-will-happen-if-Twice-disband",
+                        "answer_count": 17,
+                        "date": "Mar 25, 2018"
+                    }
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/Is-Twice-getting-disbanded&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FIs-Twice-getting-disbanded",
+            "source": "Quora"
+        },
+        {
+            "position": 2,
+            "title": "How long do you predict Twice will stay together?",
+            "link": "https://www.reddit.com/r/twice/comments/14if9ke/how_long_do_you_predict_twice_will_stay_together/",
+            "displayed_link": "60+ comments \u00b7 5 months ago",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc48ac01abd3d461ccd4716de6e7052e7a9.png",
+            "snippet": "After these five years, I bet TWICE will disband or go into indefinite hiatus. ... is very unlikely the group will never disband. Will they keep ...",
+            "snippet_highlighted_words": [
+                "very unlikely the group will never disband"
+            ],
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "TWICE would've been better off with disbandment. : r/kpoprants",
+                        "link": "https://www.reddit.com/r/kpoprants/comments/1275vix/twice_wouldve_been_better_off_with_disbandment/",
+                        "date": "Mar 31, 2023"
+                    },
+                    {
+                        "title": "Will Twice Disband at the end of year ? :scared - Reddit",
+                        "link": "https://www.reddit.com/r/twice/comments/vfu5yf/will_twice_disband_at_the_end_of_year_scared/",
+                        "date": "Jun 19, 2022"
+                    },
+                    {
+                        "title": "Now that TWICE had renewed their contracts, for how long do ...",
+                        "link": "https://www.reddit.com/r/kpopthoughts/comments/wpsc7l/now_that_twice_had_renewed_their_contracts_for/",
+                        "date": "Aug 16, 2022"
+                    },
+                    {
+                        "title": "If Twice disbands, what do think the members will do? - Reddit",
+                        "link": "https://www.reddit.com/r/kpophelp/comments/tu3mi5/if_twice_disbands_what_do_think_the_members_will/",
+                        "date": "Apr 1, 2022"
+                    }
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/twice/comments/14if9ke/how_long_do_you_predict_twice_will_stay_together/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Ftwice%2Fcomments%2F14if9ke%2Fhow_long_do_you_predict_twice_will_stay_together%2F",
+            "source": "Reddit \u00b7 r/twice"
+        },
+        {
+            "position": 3,
+            "title": "All nine members of Twice renew their contracts with JYP ...",
+            "link": "https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html",
+            "displayed_link": "https://koreajoongangdaily.joins.com \u203a kpop \u203a Korea-...",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc4f7f57f2e510895ef14d5dc375a5b597f.png",
+            "date": "Jul 12, 2022",
+            "snippet": "Oct. 20, 2022 marks Twice's seventh anniversary and the end of its first contract. \"Twice, which played a decisive role in ...",
+            "snippet_highlighted_words": [
+                "Oct. 20, 2022"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkoreajoongangdaily.joins.com%2F2022%2F07%2F12%2Fentertainment%2Fkpop%2FKorea-Kpop-Twice%2F20220712110530512.html",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Dg0Qv-D7rA8J:https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html&hl=en&gl=us",
+            "source": "Korea JoongAng Daily"
+        },
+        {
+            "position": 4,
+            "title": "Twice Contract End Date: Will the Group Disband?",
+            "link": "https://otakukart.com/344223/twice-contract-end-date-will-the-group-disband/",
+            "displayed_link": "https://otakukart.com \u203a Editor's Picks",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc4a7674a454079f4921b51d0b70dd661a3.png",
+            "date": "Sep 23, 2022",
+            "snippet": "Twice will mark its first contract renewal this October 2022. Fans are secure and happy that all the members have mutually decided to continue.",
+            "snippet_highlighted_words": [
+                "this October 2022"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://otakukart.com/344223/twice-contract-end-date-will-the-group-disband/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fotakukart.com%2F344223%2Ftwice-contract-end-date-will-the-group-disband%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8jVCvVIxiJ8J:https://otakukart.com/344223/twice-contract-end-date-will-the-group-disband/&hl=en&gl=us",
+            "source": "OtakuKart"
+        },
+        {
+            "position": 5,
+            "title": "All TWICE members renew contract with JYP",
+            "link": "https://en.yna.co.kr/view/AEN20220712004800315",
+            "displayed_link": "https://en.yna.co.kr \u203a All News",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc47296a5daf9a3be6d433c1f5d4baa4a8c.png",
+            "date": "Jul 12, 2022",
+            "snippet": "SEOUL, July 12 (Yonhap) -- All members of TWICE have renewed their contracts with JYP Entertainment, breaking the so-called \"seven-year ...",
+            "snippet_highlighted_words": [
+                "July 12"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://en.yna.co.kr/view/AEN20220712004800315&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.yna.co.kr%2Fview%2FAEN20220712004800315",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Htw815W_gz4J:https://en.yna.co.kr/view/AEN20220712004800315&hl=en&gl=us",
+            "source": "Yonhap News Agency"
+        },
+        {
+            "position": 6,
+            "title": "What year will twice disband?",
+            "link": "https://celebrity.fm/what-year-will-twice-disband/",
+            "displayed_link": "https://celebrity.fm \u203a what-year-will-twice-disband",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc4888dc5595d73ad68aa25589cc3cad257.png",
+            "snippet": "According to the reports, Twice signed their contract in the year 2015, so as of writing, their contract will expire after 1 year, which is in 2022.",
+            "snippet_highlighted_words": [
+                "in 2022"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://celebrity.fm/what-year-will-twice-disband/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcelebrity.fm%2Fwhat-year-will-twice-disband%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aZfWv9Zj7l8J:https://celebrity.fm/what-year-will-twice-disband/&hl=en&gl=us",
+            "source": "Celebrity.fm"
+        },
+        {
+            "position": 7,
+            "title": "TWICE renews contract with JYP Entertainment",
+            "link": "https://www.rappler.com/entertainment/music/twice-renews-contract-with-jyp-entertainment/",
+            "displayed_link": "https://www.rappler.com \u203a entertainment \u203a music \u203a twi...",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc46d4d3e804bcb8673b35a5e30295b6d2c.png",
+            "date": "Jul 12, 2022",
+            "snippet": "According to a Koreaboo report, JYP Entertainment released a statement on Tuesday, July 12, to announce that all of the members decided to ...",
+            "snippet_highlighted_words": [
+                "Tuesday, July 12"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.rappler.com/entertainment/music/twice-renews-contract-with-jyp-entertainment/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.rappler.com%2Fentertainment%2Fmusic%2Ftwice-renews-contract-with-jyp-entertainment%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:l4g2dNkmdm4J:https://www.rappler.com/entertainment/music/twice-renews-contract-with-jyp-entertainment/&hl=en&gl=us",
+            "source": "Rappler"
+        },
+        {
+            "position": 8,
+            "title": "Will Twice Disband In 2023? (Updated!!) - ThisIsGuernsey",
+            "link": "https://www.thisisguernsey.com/twice-disband-date/",
+            "displayed_link": "https://www.thisisguernsey.com \u203a Entertainment \u203a Music",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc4fbf6d6f8fbd11dc019a06d32b6221396.png",
+            "date": "Aug 26, 2022",
+            "snippet": "The contract end date of TWICE was set to be in October 2023. On July 12, 2023, the group decided to renew their contract with JYP.",
+            "snippet_highlighted_words": [
+                "October 2023"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.thisisguernsey.com/twice-disband-date/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thisisguernsey.com%2Ftwice-disband-date%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Hn-dAQAS5igJ:https://www.thisisguernsey.com/twice-disband-date/&hl=en&gl=us",
+            "source": "thisisguernsey.com"
+        },
+        {
+            "position": 9,
+            "title": "When is Twice Disbanding? - Webnews21",
+            "link": "https://webnews21.com/when-is-twice-disbanding/",
+            "displayed_link": "https://webnews21.com \u203a Learning",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc4bcf1f9293d53ff927a9433878f8c8acc.png",
+            "date": "Jul 13, 2022",
+            "snippet": "Many fans are wondering when Twice is disbanding? The answer is \u2013 in 2022. The group's contract is up at the end of 2022, and they are deciding ...",
+            "snippet_highlighted_words": [
+                "in 2022"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://webnews21.com/when-is-twice-disbanding/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwebnews21.com%2Fwhen-is-twice-disbanding%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3ABC5tgsna0J:https://webnews21.com/when-is-twice-disbanding/&hl=en&gl=us",
+            "source": "webnews21.com"
+        },
+        {
+            "position": 10,
+            "title": "TWICE WILL NOT DISBAND - YouTube",
+            "link": "https://www.youtube.com/watch?v=D0DAdrt8tvI",
+            "displayed_link": "9.2K+ views \u00b7 1 year ago",
+            "thumbnail": "https://i.ytimg.com/vi/D0DAdrt8tvI/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3naJSt4anqXk8rw9ARTSk_NbrL0mg",
+            "favicon": "https://serpapi.com/searches/6560c0acb5961ef24b8a5938/images/827c4651f95b104042c5ca253a0febc497cc5f0da8d09731df0deba7c17d04b8.png",
+            "snippet": "TWICE #DISBANDMENT #TWICEDisbandment #JYP TWICE WILL NOT DISBAND NO COPYRIGHT INFRINGEMENT INTENDED ALL RIGHTS BELONG TO THE RIGHTFUL OWNER ...",
+            "duration": "7:38",
+            "key_moments": [
+                {
+                    "time": "01:17",
+                    "title": "One Undeniable Bond",
+                    "link": "https://www.youtube.com/watch?v=D0DAdrt8tvI&t=77",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmv3-9jX-lFa91Z34WFDUEdu2UV6WFMsKBO_ZqJ2McQ&s"
+                },
+                {
+                    "time": "02:09",
+                    "title": "Relationship with Jyp Nim and Jyp Entertainment and Their Staff",
+                    "link": "https://www.youtube.com/watch?v=D0DAdrt8tvI&t=129",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnrL2PZhvuuGSXmmCrChcrw1cbvA9B3NLvFB4PWX0kpQ&s"
+                },
+                {
+                    "time": "03:47",
+                    "title": "Japan Domination",
+                    "link": "https://www.youtube.com/watch?v=D0DAdrt8tvI&t=227",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaszg7ySma6sCW-s6qPk5PTKO_GHd4PyGqZjokj3P05g&s"
+                },
+                {
+                    "time": "04:16",
+                    "title": "Western Invasion",
+                    "link": "https://www.youtube.com/watch?v=D0DAdrt8tvI&t=256",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3CeFIfc3gjXQ3bAAabAWOev1vQ_Q7EeAw--4DrfghA&s"
+                },
+                {
+                    "time": "04:59",
+                    "title": "Are Twice Members Really Ready To Go on Solo",
+                    "link": "https://www.youtube.com/watch?v=D0DAdrt8tvI&t=299",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUYbrC-dv7vse7QoNqULifaRqF4Cqh2_guCzeCq7TplA&s"
+                },
+                {
+                    "time": "05:51",
+                    "title": "Brand Endorsement",
+                    "link": "https://www.youtube.com/watch?v=D0DAdrt8tvI&t=351",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaVCEkFJCK1tFfVsgPyyTpQMdi-yQHmwVjP8NhkNFmQ&s"
+                }
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=D0DAdrt8tvI&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DD0DAdrt8tvI",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSzNsx5E1EY9LLAThPj7F3XUsN9aTv75_xCNw",
+            "source": "YouTube \u00b7 TWICE FAM"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "When twice will disband reddit",
+            "link": "https://www.google.com/search?sca_esv=585073649&q=When+twice+will+disband+reddit&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ1QJ6BAg5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+twice+will+disband+reddit"
+        },
+        {
+            "block_position": 1,
+            "query": "When twice will disband date",
+            "link": "https://www.google.com/search?sca_esv=585073649&q=When+twice+will+disband+date&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+twice+will+disband+date"
+        },
+        {
+            "block_position": 1,
+            "query": "When twice will disband bts",
+            "link": "https://www.google.com/search?sca_esv=585073649&q=When+twice+will+disband+bts&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+twice+will+disband+bts"
+        },
+        {
+            "block_position": 1,
+            "query": "When twice will disband 2023",
+            "link": "https://www.google.com/search?sca_esv=585073649&q=When+twice+will+disband+2023&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+twice+will+disband+2023"
+        },
+        {
+            "block_position": 1,
+            "query": "is twice disbanding in 2027",
+            "link": "https://www.google.com/search?sca_esv=585073649&q=Is+Twice+disbanding+in+2027&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Is+Twice+disbanding+in+2027"
+        },
+        {
+            "block_position": 1,
+            "query": "twice disband date and year",
+            "link": "https://www.google.com/search?sca_esv=585073649&q=Twice+disband+date+and+year&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twice+disband+date+and+year"
+        },
+        {
+            "block_position": 1,
+            "query": "is twice disbanding in 2023",
+            "link": "https://www.google.com/search?sca_esv=585073649&q=Is+Twice+disbanding+in+2023&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Is+Twice+disbanding+in+2023"
+        },
+        {
+            "block_position": 1,
+            "query": "when will twice disband date month",
+            "link": "https://www.google.com/search?sca_esv=585073649&q=When+will+Twice+disband+date+month&sa=X&ved=2ahUKEwiFivKh-dyCAxWAO0QIHUTkAoMQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+will+Twice+disband+date+month"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=when+twice+will+disband&oq=when+twice+will+disband&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=when+twice+will+disband&oq=when+twice+will+disband&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=when+twice+will+disband&oq=when+twice+will+disband&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=when+twice+will+disband&oq=when+twice+will+disband&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=when+twice+will+disband&oq=when+twice+will+disband&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=when+twice+will+disband&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=when+twice+will+disband&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=when+twice+will+disband&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=when+twice+will+disband&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=when+twice+will+disband&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=when+twice+will+disband&start=40"
+        }
+    }
+}

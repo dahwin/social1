@@ -1,0 +1,1577 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - kim dahyun",
+        "totalResults": "13700000",
+        "searchTerms": "kim dahyun",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "139c361742d82487d"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - kim dahyun",
+        "totalResults": "13700000",
+        "searchTerms": "kim dahyun",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "139c361742d82487d"
+      }
+    ]
+  },
+  "context": {
+    "title": "dahwin"
+  },
+  "searchInformation": {
+    "searchTime": 0.398786,
+    "formattedSearchTime": "0.40",
+    "totalResults": "13700000",
+    "formattedTotalResults": "13,700,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "다현 (DAHYUN) (@dahhyunnee) • Instagram photos and videos",
+      "htmlTitle": "다현 (<b>DAHYUN</b>) (@dahhyunnee) • Instagram photos and videos",
+      "link": "https://www.instagram.com/dahhyunnee/",
+      "displayLink": "www.instagram.com",
+      "snippet": "김유정 KIM YOU JUNG. Follow. tenlee_1001. TEN_+•10. Follow ... Introducing Dahyun, member of the global group TWICE, as our newest Global Brand Ambassador.",
+      "htmlSnippet": "김유정 <b>KIM</b> YOU JUNG. Follow. tenlee_1001. TEN_+•10. Follow ... Introducing <b>Dahyun</b>, member of the global group <b>TWICE</b>, as our newest Global Brand Ambassador.",
+      "formattedUrl": "https://www.instagram.com/dahhyunnee/",
+      "htmlFormattedUrl": "https://www.instagram.com/dahhyunnee/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/281257169_397867378887435_1070554030893405798_n.jpg?stp=dst-jpg_s100x100&_nc_cat=1&ccb=1-7&_nc_sid=c4dd86&_nc_ohc=DX4CN7Ec2TsAX-fZ7Km&_nc_ht=scontent-atl3-1.cdninstagram.com&oh=00_AfCNSfLRNfo--gHoUZZRZB_Ib1vqgDAwwMztg5JUeXZdlQ&oe=655F3EA9",
+            "theme-color": "#ffffff",
+            "og:type": "profile",
+            "al:ios:app_name": "Instagram",
+            "og:title": "다현 (DAHYUN) (@dahhyunnee) • Instagram photos and videos",
+            "al:android:package": "com.instagram.android",
+            "al:ios:url": "instagram://user?username=dahhyunnee",
+            "color-scheme": "light",
+            "og:description": "9M Followers, 0 Following, 107 Posts - See Instagram photos and videos from 다현 (DAHYUN) (@dahhyunnee)",
+            "al:ios:app_store_id": "389801252",
+            "al:android:url": "https://instagram.com/_u/dahhyunnee/",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.instagram.com/dahhyunnee/",
+            "al:android:app_name": "Instagram"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/281257169_397867378887435_1070554030893405798_n.jpg?stp=dst-jpg_s100x100&_nc_cat=1&ccb=1-7&_nc_sid=c4dd86&_nc_ohc=DX4CN7Ec2TsAX-fZ7Km&_nc_ht=scontent-atl3-1.cdninstagram.com&oh=00_AfCNSfLRNfo--gHoUZZRZB_Ib1vqgDAwwMztg5JUeXZdlQ&oe=655F3EA9"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dahyun - Wikipedia",
+      "htmlTitle": "<b>Dahyun</b> - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Dahyun",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Kim Da-hyun (Korean: 김다현; born May 28, 1998), known mononymously as Dahyun, is a South Korean singer and rapper. She is a member of the South Korean girl ...",
+      "htmlSnippet": "<b>Kim Da-hyun</b> (Korean: 김다현; born May 28, 1998), known mononymously as Dahyun, is a South Korean singer and rapper. She is a member of the South Korean girl&nbsp;...",
+      "cacheId": "JzqxDVWCKGoJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Dahyun",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dahyun</b>",
+      "pagemap": {
+        "hcard": [
+          {
+            "note": "Vocals",
+            "role": ".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;d...",
+            "bday": "1998-05-28",
+            "fn": "Dahyun",
+            "nickname": "Kim Da-hyun"
+          }
+        ],
+        "person": [
+          {
+            "role": ".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;d..."
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/0/02/20220121%E2%80%94Dahyun_%EB%8B%A4%ED%98%84_Campaign_Film%2C_Pearlygates_x_Twice_2022.jpg",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Dahyun - Wikipedia",
+            "og:image:height": "1205",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dahyun | Twice Wiki | Fandom",
+      "htmlTitle": "<b>Dahyun</b> | <b>Twice</b> Wiki | Fandom",
+      "link": "https://twice.fandom.com/wiki/Dahyun",
+      "displayLink": "twice.fandom.com",
+      "snippet": "Kim Da-hyun (Hangul: 김다현), better known by her first name, Dahyun (Hangul: 다현), is a South Korean singer, rapper, and songwriter.",
+      "htmlSnippet": "<b>Kim Da-hyun</b> (Hangul: 김다현), better known by her first name, Dahyun (Hangul: 다현), is a South Korean singer, rapper, and songwriter.",
+      "cacheId": "tR1vhe7jT_UJ",
+      "formattedUrl": "https://twice.fandom.com/wiki/Dahyun",
+      "htmlFormattedUrl": "https://twice.fandom.com/wiki/<b>Dahyun</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSx6X8QtGr0FS6O_BN-fmHDuRfF6s2MxBBKHYqCh_V0M1sqPoaGOPO5o0",
+            "width": "199",
+            "height": "254"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=1230063803",
+            "og:image": "https://static.wikia.nocookie.net/twicenation/images/9/98/Dahyun_Ready_To_Be_Profile.jpg/revision/latest?cb=20230402155432",
+            "theme-color": "#eaecf0",
+            "twitter:card": "summary",
+            "twitter:title": "Dahyun | Twice Wiki | Fandom",
+            "og:type": "article",
+            "og:site_name": "Twice Wiki",
+            "twitter:url": "https://twice.fandom.com/wiki/Dahyun",
+            "og:title": "Dahyun",
+            "og:description": "Kim Da-hyun (Hangul: 김다현), better known by her first name, Dahyun (Hangul: 다현), is a South Korean singer, rapper, and songwriter. She is a vocalist and the lead rapper of the group. Dahyun was born on May 28, 1998 in Seongnam, Gyeonggi-do, South Korea. Dahyun first gained attention in sixth grade after a video of her at church performing a \"head-banging, wing-flapping, and thoroughly irrepressible dance\" to Hillsong's \"The Power of Your Love\" went viral on YouTube in 2011 and earned her the moni",
+            "fb:app_id": "112328095453510",
+            "twitter:site": "@getfandom",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "twitter:description": "Kim Da-hyun (Hangul: 김다현), better known by her first name, Dahyun (Hangul: 다현), is a South Korean singer, rapper, and songwriter. She is a vocalist and the lead rapper of the group. Dahyun was...",
+            "og:url": "https://twice.fandom.com/wiki/Dahyun",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.wikia.nocookie.net/twicenation/images/9/98/Dahyun_Ready_To_Be_Profile.jpg/revision/latest?cb=20230402155432"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "5 things about Twice's Dahyun, K-pop star and South Korea's most ...",
+      "htmlTitle": "5 things about <b>Twice&#39;s Dahyun</b>, K-pop star and South Korea&#39;s most ...",
+      "link": "https://www.scmp.com/magazines/style/news-trends/article/3086303/5-things-about-twices-dahyun-k-pop-star-and-south",
+      "displayLink": "www.scmp.com",
+      "snippet": "May 27, 2020 ... K-pop, Mandopop and other Asian pop. 5 things to know about BigBang's lead singer Daesung ... Because of her pale white skin and outgoing ...",
+      "htmlSnippet": "May 27, 2020 <b>...</b> K-pop, Mandopop and other Asian pop. 5 things to know about BigBang&#39;s lead singer Daesung ... Because of her pale white skin and outgoing&nbsp;...",
+      "cacheId": "igLfK-CuTbEJ",
+      "formattedUrl": "https://www.scmp.com/.../5-things-about-twices-dahyun-k-pop-star-and-so...",
+      "htmlFormattedUrl": "https://www.scmp.com/.../5-things-about-twices-<b>dahyun</b>-k-pop-star-and-so...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_NFu7NurxchA4DK5rVZr41ZO4ySDcM5uldTNmm9aj2wEQgqvMvfmdtEU",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/methode/2020/05/28/a4b380e6-a095-11ea-8055-0ae12e466049_image_hires_114615.jpg?itok=YdeZe33F&v=1590637580",
+            "apple-itunes-app": "app-id=623201967",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2020-05-27T18:00:14+08:00",
+            "theme-color": "#ffffff",
+            "og:site_name": "South China Morning Post",
+            "al:android:package": "com.scmp.newspulse",
+            "cxenseparse:image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2020/05/28/a4b380e6-a095-11ea-8055-0ae12e466049_image_hires_114615.jpg?itok=VVmdnpx7&v=1590637580",
+            "al:ios:url": "scmp://magazines/style/news-trends/article/3086303/5-things-about-twices-dahyun-k-pop-star-and-south?entity=node&type=article&id=3086303",
+            "og:description": "The K-pop star is a variety show favourite, dyes her hair various colours and doesn’t seem to care what others think of her – but what else is there to know?",
+            "al:ios:app_store_id": "623201967",
+            "pocket-site-verification": "25fd909c3fd10ded451415fc076ba8",
+            "next-head-count": "54",
+            "twitter:site": "@SCMPNews",
+            "cxenseparse:author": "Patti Sunio",
+            "article:modified_time": "2021-05-27T14:27:50+08:00",
+            "news_keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+            "og:type": "article",
+            "article:section": "Magazines",
+            "al:ios:app_name": "SCMP",
+            "og:title": "5 things to love about Twice’s Dahyun, K-pop star and quirky darling",
+            "article:tag": "Music",
+            "al:android:url": "scmp://magazines/style/news-trends/article/3086303/5-things-about-twices-dahyun-k-pop-star-and-south?entity=node&type=article&id=3086303",
+            "fb:app_id": "282931841805811",
+            "viewport": "width=device-width, maximum-scale=1, user-scalable=no, initial-scale=1",
+            "cxenseparse:articleid": "3086303",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.scmp.com/magazines/style/news-trends/article/3086303/5-things-about-twices-dahyun-k-pop-star-and-south",
+            "al:android:app_name": "SCMP"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/methode/2020/05/28/a4b380e6-a095-11ea-8055-0ae12e466049_image_hires_114615.jpg?itok=YdeZe33F&v=1590637580"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Why does Once give Dahyun from Twice the nickname tofu? I'm new ...",
+      "htmlTitle": "Why does Once give <b>Dahyun</b> from <b>Twice</b> the nickname tofu? I&#39;m new ...",
+      "link": "https://www.quora.com/Why-does-Once-give-Dahyun-from-Twice-the-nickname-tofu-Im-new-to-the-Fandom",
+      "displayLink": "www.quora.com",
+      "snippet": "May 7, 2021 ... Why does Once give Dahyun from Twice the nickname Tofu? ꜱᴡɪᴛᴄʜ ᴛᴏ ᴍᴇ 2:09 ────⊙─────── 4:25 ↻ ◁ ɪɪ ▷ ↺ Dahyun is one ...",
+      "htmlSnippet": "May 7, 2021 <b>...</b> Why does Once give <b>Dahyun</b> from <b>Twice</b> the nickname Tofu? ꜱᴡɪᴛᴄʜ ᴛᴏ ᴍᴇ 2:09 ────⊙─────── 4:25 ↻ ◁ ɪɪ ▷ ↺ <b>Dahyun</b> is one&nbsp;...",
+      "formattedUrl": "https://www.quora.com/Why-does-Once-give-Dahyun-from-Twice-the-nic...",
+      "htmlFormattedUrl": "https://www.quora.com/Why-does-Once-give-<b>Dahyun</b>-from-Twice-the-nic...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRw3kuo4KuFALgInF4leb1LucNx-psr9jpiGEnSNzvhKxnZaVUepDaed30",
+            "width": "183",
+            "height": "275"
+          }
+        ],
+        "metatags": [
+          {
+            "al:android:url": "intent://www.quora.com/Why-does-Once-give-Dahyun-from-Twice-the-nickname-tofu-Im-new-to-the-Fandom#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FWhy-does-Once-give-Dahyun-from-Twice-the-nickname-tofu-Im-new-to-the-Fandom&logging_data=uid%3DNone;end",
+            "theme-color": "#b92b27",
+            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+            "al:android:package": "com.quora.android",
+            "fb:pages": "255232486973",
+            "twitter:widgets:theme": "light"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://qph.cf2.quoracdn.net/main-qimg-cbafc82432c405c9ca04d5a129e67a9b-lq"
+          }
+        ],
+        "QAPage": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dahyun (TWICE) profile, age & facts (2023 updated) | kpopping",
+      "htmlTitle": "<b>Dahyun</b> (<b>TWICE</b>) profile, age &amp; facts (2023 updated) | kpopping",
+      "link": "https://kpopping.com/profiles/idol/Dahyun",
+      "displayLink": "kpopping.com",
+      "snippet": "Dahyun (Hangul: 다현) is a South Korean singer under JYP Entertainment. She is popularly known as a member of the sensational girl group TWICE. Before mak.",
+      "htmlSnippet": "<b>Dahyun</b> (Hangul: 다현) is a South Korean singer under JYP Entertainment. She is popularly known as a member of the sensational girl group <b>TWICE</b>. Before mak.",
+      "cacheId": "ihUb9KkwgisJ",
+      "formattedUrl": "https://kpopping.com/profiles/idol/Dahyun",
+      "htmlFormattedUrl": "https://kpopping.com/profiles/idol/<b>Dahyun</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAy8vJKqUykvZoMxi85Dgh7Tmm2O6SAFNj4qXQufAPaczPB1ksW73Alhx4",
+            "width": "261",
+            "height": "193"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "kpopping",
+            "msapplication-tilecolor": "#2d89ef",
+            "og:image": "https://kpopping.com/documents/d6/5/social-widget/Dahyun-facePicture(14).webp?v=de2b5",
+            "article:published_time": "2017-05-22T12:17:02+09:00",
+            "og:type": "website",
+            "twitter:title": "Dahyun (TWICE) profile, age & facts (2023 updated)",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#ffffff",
+            "og:title": "Dahyun (TWICE) profile, age & facts (2023 updated)",
+            "apple-mobile-web-app-title": "kpopping",
+            "title": "Dahyun (TWICE) profile, age & facts (2023 updated)",
+            "og:description": "Dahyun (Hangul: 다현) is a South Korean singer under JYP Entertainment. She is popularly known as a member of the sensational girl group TWICE. Before maki...",
+            "twitter:image": "https://kpopping.com/documents/d6/5/social-widget/Dahyun-facePicture(14).webp?v=de2b5",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "article:modified_time": "2023-11-20T06:36:35+09:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "Dahyun (Hangul: 다현) is a South Korean singer under JYP Entertainment. She is popularly known as a member of the sensational girl group TWICE. Before making her official debut, Dahyun used to be a m...",
+            "apple-mobile-web-app-capable": "yes",
+            "og:url": "https://kpopping.com/profiles/idol/Dahyun"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://kpopping.com/documents/d6/5/social-widget/Dahyun-facePicture(14).webp?v=de2b5"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DAHYUN (TWICE) Profile (Updated!) - Kpop Profiles",
+      "htmlTitle": "<b>DAHYUN</b> (<b>TWICE</b>) Profile (Updated!) - Kpop Profiles",
+      "link": "https://kprofiles.com/dahyun-twice-profile/",
+      "displayLink": "kprofiles.com",
+      "snippet": "May 10, 2017 ... – DAHYUN is scared of animals (cats, dogs, etc.). – Pre-debut she was very popular due to her Eagle dance video which went viral in South Korea.",
+      "htmlSnippet": "May 10, 2017 <b>...</b> – <b>DAHYUN</b> is scared of animals (cats, dogs, etc.). – Pre-debut she was very popular due to her Eagle dance video which went viral in South Korea.",
+      "cacheId": "5NELk7mIpVgJ",
+      "formattedUrl": "https://kprofiles.com/dahyun-twice-profile/",
+      "htmlFormattedUrl": "https://kprofiles.com/<b>dahyun</b>-twice-profile/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvEYiMJH61CSJtfj4j_BTQSGWiXQ4vOP2anCUP3DwuOZOd2J0QMEmZGEhk",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#603cba",
+            "og:image": "https://kprofiles.com/wp-content/uploads/2023/05/DAHYUN-2.jpg",
+            "og:type": "article",
+            "article:published_time": "2017-05-10T02:02:04+00:00",
+            "og:image:width": "800",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#ffffff",
+            "og:site_name": "Kpop Profiles",
+            "author": "KProfiles",
+            "og:title": "DAHYUN (TWICE) Profile (Updated!) - Kpop Profiles",
+            "og:image:height": "534",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "og:image:type": "image/jpeg",
+            "og:description": "DAHYUN (다현) Profile and Facts: DAHYUN (다현) is a member of the South Korean girl group TWICE.",
+            "twitter:data1": "KProfiles",
+            "twitter:data2": "3 minutes",
+            "article:modified_time": "2023-05-04T17:30:30+00:00",
+            "viewport": "width=device-width,initial-scale=1.0",
+            "og:locale": "en_US",
+            "og:url": "https://kprofiles.com/dahyun-twice-profile/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://kprofiles.com/wp-content/uploads/2023/05/DAHYUN-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dahyun should leave Twice and join NewJeans : r ...",
+      "htmlTitle": "<b>Dahyun</b> should leave <b>Twice</b> and join NewJeans : r ...",
+      "link": "https://www.reddit.com/r/unpopularkpopopinions/comments/zw52f9/dahyun_should_leave_twice_and_join_newjeans/",
+      "displayLink": "www.reddit.com",
+      "snippet": "Dec 27, 2022 ... Dahyun should leave Twice and join NewJeans. girl groups. I know 99% of y'all will call me crazy, and I know that my opinion is weird, but just ...",
+      "htmlSnippet": "Dec 27, 2022 <b>...</b> <b>Dahyun</b> should leave <b>Twice</b> and join NewJeans. girl groups. I know 99% of y&#39;all will call me crazy, and I know that my opinion is weird, but just&nbsp;...",
+      "formattedUrl": "https://www.reddit.com/r/.../dahyun_should_leave_twice_and_join_newjea...",
+      "htmlFormattedUrl": "https://www.reddit.com/r/.../<b>dahyun</b>_should_leave_twice_and_join_newjea...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://share.redd.it/preview/post/zw52f9",
+            "theme-color": "#000000",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "og:image:alt": "An image containing a preview of the post",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/unpopularkpopopinions on Reddit: Dahyun should leave Twice and join NewJeans",
+            "og:site_name": "Reddit",
+            "og:title": "r/unpopularkpopopinions on Reddit: Dahyun should leave Twice and join NewJeans",
+            "og:image:height": "630",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/Lumpy-Statistician-1 - 1,656 votes and 286 comments",
+            "twitter:image": "https://share.redd.it/preview/post/zw52f9",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/unpopularkpopopinions/comments/zw52f9/dahyun_should_leave_twice_and_join_newjeans/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://share.redd.it/preview/post/zw52f9"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "dahyun pics (@dahyunsarchives) / X",
+      "htmlTitle": "<b>dahyun</b> pics (@dahyunsarchives) / X",
+      "link": "https://twitter.com/dahyunsarchives?lang=en",
+      "displayLink": "twitter.com",
+      "snippet": "happy birthday to our lovely momo!! thank you for always being there for dahyun and twice, i wish you all the best in the world #천재복숭아_처음_수확한_ ...",
+      "htmlSnippet": "happy birthday to our lovely momo!! thank you for always being there for <b>dahyun</b> and <b>twice</b>, i wish you all the best in the world #천재복숭아_처음_수확한_&nbsp;...",
+      "cacheId": "4ElHX54huT0J",
+      "formattedUrl": "https://twitter.com/dahyunsarchives?lang=en",
+      "htmlFormattedUrl": "https://twitter.com/<b>dahyun</b>sarchives?lang=en",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfDzBYEafx7bg4xGFBxKr9gK50oNYSi2loWo6_eUu6eWErZ00TWkrDHeML",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "imageobject": [
+          {
+            "contenturl": "https://pbs.twimg.com/media/F_V9hRVXEAAMF4Z.jpg",
+            "width": "2048",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F_V9hRVXEAAMF4Z?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F_M3x42WkAAQUK9.jpg",
+            "width": "736",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F_M3x42WkAAQUK9?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F_Jbg0mWYAABbVX.jpg",
+            "width": "1650",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F_Jbg0mWYAABbVX?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F_JbjPdXYAAlRpl.jpg",
+            "width": "1807",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F_JbjPdXYAAlRpl?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F_JblAXX0AE5uTC.jpg",
+            "width": "1708",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F_JblAXX0AE5uTC?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F_JbmrOWsAAw2jG.jpg",
+            "width": "1807",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F_JbmrOWsAAw2jG?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F_GZafPXMAATP0R.jpg",
+            "width": "736",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F_GZafPXMAATP0R?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F_GZbBFXcAIACj7.jpg",
+            "width": "736",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F_GZbBFXcAIACj7?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-lzubfboAAKwGV.jpg",
+            "width": "934",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-lzubfboAAKwGV?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-lzvwiXEAAnzQR.jpg",
+            "width": "829",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-lzvwiXEAAnzQR?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-sJUQ4XkAA7p6D.jpg",
+            "width": "1085",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-sJUQ4XkAA7p6D?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-sJVD2XkAAHe36.jpg",
+            "width": "1316",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-sJVD2XkAAHe36?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-sJe7qWoAAqWDv.jpg",
+            "width": "1287",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-sJe7qWoAAqWDv?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-sJhpwWcAAG6jI.jpg",
+            "width": "1099",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-sJhpwWcAAG6jI?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-ryOC2WUAAGPIH.jpg",
+            "width": "949",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-ryOC2WUAAGPIH?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-lzubfboAAKwGV.jpg",
+            "width": "934",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-lzubfboAAKwGV?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-lzvwiXEAAnzQR.jpg",
+            "width": "829",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-lzvwiXEAAnzQR?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-ipH0NXQAAYRaY.jpg",
+            "width": "827",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-ipH0NXQAAYRaY?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-ipH0RWEAAo2Iz.jpg",
+            "width": "827",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-ipH0RWEAAo2Iz?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-fV1w4XoAAf9Kj.jpg",
+            "width": "828",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-fV1w4XoAAf9Kj?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-e8Md_XsAAoN1Y.jpg",
+            "width": "827",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-e8Md_XsAAoN1Y?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-e8MevXoAAkmdV.jpg",
+            "width": "827",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-e8MevXoAAkmdV?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-a9FMOb0AASZGB.jpg",
+            "width": "1536",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-a9FMOb0AASZGB?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-QUDOkXcAEkxP_.jpg",
+            "width": "1080",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-QUDOkXcAEkxP_?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-PjewQW8AAw8aF.jpg",
+            "width": "557",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-PjewQW8AAw8aF?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-PjewQWQAAbLqx.jpg",
+            "width": "507",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-PjewQWQAAbLqx?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/F-OJIldWcAAo81A.jpg",
+            "width": "1005",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/F-OJIldWcAAo81A?format=jpg&name=thumb"
+          }
+        ],
+        "person": [
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          },
+          {
+            "identifier": "1374444015664308232",
+            "givenname": "dahyun pics",
+            "additionalname": "dahyunsarchives"
+          }
+        ],
+        "interactioncounter": [
+          {
+            "userinteractioncount": "221",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1527808894709268480/likes"
+          },
+          {
+            "userinteractioncount": "63",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1527808894709268480/retweets"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1527808894709268480/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1527808894709268480"
+          },
+          {
+            "userinteractioncount": "137",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1726424049650192426/likes"
+          },
+          {
+            "userinteractioncount": "29",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1726424049650192426/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1726424049650192426/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1726424049650192426"
+          },
+          {
+            "userinteractioncount": "2201",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1725784418046918718/likes"
+          },
+          {
+            "userinteractioncount": "285",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1725784418046918718/retweets"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1725784418046918718/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1725784418046918718"
+          },
+          {
+            "userinteractioncount": "1162",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1725542336594141636/likes"
+          },
+          {
+            "userinteractioncount": "149",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1725542336594141636/retweets"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1725542336594141636/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1725542336594141636"
+          },
+          {
+            "userinteractioncount": "2192",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1725329279070687686/likes"
+          },
+          {
+            "userinteractioncount": "322",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1725329279070687686/retweets"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1725329279070687686/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1725329279070687686"
+          },
+          {
+            "userinteractioncount": "38",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1725246671490089024/likes"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1725246671490089024/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1725246671490089024/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1725246671490089024"
+          },
+          {
+            "userinteractioncount": "1135",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1723481891108532389/likes"
+          },
+          {
+            "userinteractioncount": "183",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1723481891108532389/retweets"
+          },
+          {
+            "userinteractioncount": "9",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1723481891108532389/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1723481891108532389"
+          },
+          {
+            "userinteractioncount": "1830",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1723458392012865968/likes"
+          },
+          {
+            "userinteractioncount": "169",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1723458392012865968/retweets"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1723458392012865968/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1723458392012865968"
+          },
+          {
+            "userinteractioncount": "341",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1723037614444339333/likes"
+          },
+          {
+            "userinteractioncount": "56",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1723037614444339333/retweets"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1723037614444339333/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1723037614444339333"
+          },
+          {
+            "userinteractioncount": "1275",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722963497590604028/likes"
+          },
+          {
+            "userinteractioncount": "221",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1722963497590604028/retweets"
+          },
+          {
+            "userinteractioncount": "8",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722963497590604028/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1722963497590604028"
+          },
+          {
+            "userinteractioncount": "1255",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722812815906422834/likes"
+          },
+          {
+            "userinteractioncount": "244",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1722812815906422834/retweets"
+          },
+          {
+            "userinteractioncount": "8",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722812815906422834/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1722812815906422834"
+          },
+          {
+            "userinteractioncount": "1184",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580507848740937/likes"
+          },
+          {
+            "userinteractioncount": "144",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580507848740937/retweets"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580507848740937/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580507848740937"
+          },
+          {
+            "userinteractioncount": "7",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580510692544829/likes"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580510692544829/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580510692544829/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580510692544829"
+          },
+          {
+            "userinteractioncount": "358",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722552310272798948/likes"
+          },
+          {
+            "userinteractioncount": "53",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1722552310272798948/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722552310272798948/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1722552310272798948"
+          },
+          {
+            "userinteractioncount": "799",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722271815677165835/likes"
+          },
+          {
+            "userinteractioncount": "177",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1722271815677165835/retweets"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1722271815677165835/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1722271815677165835"
+          },
+          {
+            "userinteractioncount": "2114",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721822100166435097/likes"
+          },
+          {
+            "userinteractioncount": "312",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1721822100166435097/retweets"
+          },
+          {
+            "userinteractioncount": "13",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721822100166435097/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1721822100166435097"
+          },
+          {
+            "userinteractioncount": "2223",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523010056720878/likes"
+          },
+          {
+            "userinteractioncount": "332",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523010056720878/retweets"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523010056720878/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523010056720878"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523014230016246/likes"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523014230016246/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523014230016246/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523014230016246"
+          },
+          {
+            "userinteractioncount": "269",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721469605221179741/likes"
+          },
+          {
+            "userinteractioncount": "84",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1721469605221179741/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721469605221179741/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "19",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1721469605221179741"
+          },
+          {
+            "userinteractioncount": "1989",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370268885524669/likes"
+          },
+          {
+            "userinteractioncount": "267",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370268885524669/retweets"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370268885524669/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370268885524669"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370273021088198/likes"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370273021088198/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370273021088198/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370273021088198"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://pbs.twimg.com/profile_images/1707878382317318144/3Usl425I_200x200.jpg",
+            "theme-color": "#FFFFFF",
+            "og:type": "profile",
+            "og:site_name": "X (formerly Twitter)",
+            "al:ios:app_name": "X",
+            "apple-mobile-web-app-title": "Twitter",
+            "og:title": "dahyun pics (@dahyunsarchives) on X",
+            "al:android:package": "com.twitter.android",
+            "al:ios:url": "twitter://user?screen_name=dahyunsarchives",
+            "title": "dahyun pics (@dahyunsarchives) on X",
+            "og:description": "always for twice's #DAHYUN",
+            "al:ios:app_store_id": "333903271",
+            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+            "al:android:url": "twitter://user?screen_name=dahyunsarchives",
+            "fb:app_id": "2231777543",
+            "apple-mobile-web-app-status-bar-style": "white",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://twitter.com/dahyunsarchives",
+            "al:android:app_name": "X"
+          }
+        ],
+        "videoobject": [
+          {
+            "duration": "PT0H0M6S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1722963497590604028",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1722963464027594752/pu/vid/avc1/720x720/62swlqTqkt5RGNHd.mp4?tag=12",
+            "uploaddate": "2023-11-10T13:04:43.000Z",
+            "name": "@dahyunsarchives's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1722963464027594752/pu/img/JwxuFpCUIvon-MFo.jpg"
+          },
+          {
+            "duration": "PT0H0M8S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1721822100166435097",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1721821620971376640/pu/vid/avc1/720x720/-CKluMm9Cbwjs3Kw.mp4?tag=12",
+            "uploaddate": "2023-11-07T09:29:13.000Z",
+            "name": "@dahyunsarchives's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1721821620971376640/pu/img/Ptu-V2AUaAOOkull.jpg"
+          }
+        ],
+        "collection": [
+          {
+            "name": "Profile posts"
+          }
+        ],
+        "creativework": [
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/copJ6vi6zI"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/2w7xdU5rHh"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/JasqBdA766"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/BFvoGGZAB9"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/5AvkPP771h"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/eyxpA4o1BF"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/vNwehT9cHJ"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/b4Jp7fWiz8"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/SNgLRFBhin"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/Br9l4KTWCI"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/FxnOk76Ybw"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/kw3Jwc1wQY"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/ceUmSOwlZK"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/W7z1V3PAs5"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/FT8sBWpJr7"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/zfrdpwEmJD"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/yyEm5NisWQ"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/mfDhJddBvR"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pbs.twimg.com/profile_images/1707878382317318144/3Usl425I_400x400.jpg"
+          }
+        ],
+        "socialmediaposting": [
+          {
+            "identifier": "1527808894709268480",
+            "commentcount": "0",
+            "articlebody": "dahyunsarchives carrd is now available, with all dahyun covers, melody project, vlogs and instagram links 🤍",
+            "position": "1",
+            "datecreated": "2022-05-21T00:30:00.000Z",
+            "datepublished": "2022-05-21T00:30:00.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1527808894709268480"
+          },
+          {
+            "identifier": "1726424049650192426",
+            "commentcount": "0",
+            "articlebody": "#DAHYUN OISHI 🤍",
+            "position": "2",
+            "datecreated": "2023-11-20T02:15:43.000Z",
+            "datepublished": "2023-11-20T02:15:43.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1726424049650192426"
+          },
+          {
+            "identifier": "1725784418046918718",
+            "commentcount": "2",
+            "articlebody": "KIM DAHYUN ❤️‍🔥",
+            "position": "3",
+            "datecreated": "2023-11-18T07:54:03.000Z",
+            "datepublished": "2023-11-18T07:54:03.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1725784418046918718"
+          },
+          {
+            "identifier": "1725542336594141636",
+            "commentcount": "0",
+            "articlebody": "3 years ago 🧡",
+            "position": "4",
+            "datecreated": "2023-11-17T15:52:06.000Z",
+            "datepublished": "2023-11-17T15:52:06.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1725542336594141636"
+          },
+          {
+            "identifier": "1725329279070687686",
+            "commentcount": "0",
+            "articlebody": "the cutest person ever",
+            "position": "5",
+            "datecreated": "2023-11-17T01:45:29.000Z",
+            "datepublished": "2023-11-17T01:45:29.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1725329279070687686"
+          },
+          {
+            "identifier": "1725246671490089024",
+            "commentcount": "1",
+            "articlebody": "‼️‼️‼️‼️",
+            "position": "6",
+            "datecreated": "2023-11-16T20:17:14.000Z",
+            "datepublished": "2023-11-16T20:17:14.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1725246671490089024"
+          },
+          {
+            "identifier": "1723481891108532389",
+            "commentcount": "1",
+            "articlebody": "2 years ago 👩‍🔬",
+            "position": "7",
+            "datecreated": "2023-11-11T23:24:38.000Z",
+            "datepublished": "2023-11-11T23:24:38.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1723481891108532389"
+          },
+          {
+            "identifier": "1723458392012865968",
+            "commentcount": "0",
+            "position": "8",
+            "datecreated": "2023-11-11T21:51:15.000Z",
+            "datepublished": "2023-11-11T21:51:15.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1723458392012865968"
+          },
+          {
+            "identifier": "1723037614444339333",
+            "commentcount": "0",
+            "articlebody": "don’t forget to vote!",
+            "position": "9",
+            "datecreated": "2023-11-10T17:59:14.000Z",
+            "datepublished": "2023-11-10T17:59:14.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1723037614444339333"
+          },
+          {
+            "identifier": "1722963497590604028",
+            "commentcount": "0",
+            "articlebody": "this was so funny 🤣",
+            "position": "10",
+            "datecreated": "2023-11-10T13:04:43.000Z",
+            "datepublished": "2023-11-10T13:04:43.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1722963497590604028"
+          },
+          {
+            "identifier": "1722812815906422834",
+            "commentcount": "0",
+            "articlebody": "reporter kim dahyun",
+            "position": "11",
+            "datecreated": "2023-11-10T03:05:58.000Z",
+            "datepublished": "2023-11-10T03:05:58.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1722812815906422834"
+          },
+          {
+            "identifier": "1722580507848740937",
+            "commentcount": "1",
+            "articlebody": "#DAHYUN X Apieu",
+            "position": "12",
+            "datecreated": "2023-11-09T11:42:51.000Z",
+            "datepublished": "2023-11-09T11:42:51.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580507848740937"
+          },
+          {
+            "identifier": "1722580510692544829",
+            "commentcount": "0",
+            "ispartof": "https://twitter.com/dahyunsarchives/status/1722580507848740937",
+            "position": "13",
+            "datecreated": "2023-11-09T11:42:52.000Z",
+            "datepublished": "2023-11-09T11:42:52.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1722580510692544829"
+          },
+          {
+            "identifier": "1722552310272798948",
+            "commentcount": "0",
+            "articlebody": "dahmo shadows 🥹",
+            "position": "14",
+            "datecreated": "2023-11-09T09:50:48.000Z",
+            "datepublished": "2023-11-09T09:50:48.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1722552310272798948"
+          },
+          {
+            "identifier": "1722271815677165835",
+            "commentcount": "6",
+            "articlebody": "happy birthday to our lovely momo!! thank you for always being there for dahyun and twice, i wish you all the best in the world 🤍 #천재복숭아_처음_수확한_날 #BubblyMomoringDay",
+            "position": "15",
+            "datecreated": "2023-11-08T15:16:13.000Z",
+            "datepublished": "2023-11-08T15:16:13.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1722271815677165835"
+          },
+          {
+            "identifier": "1721822100166435097",
+            "commentcount": "0",
+            "articlebody": "dub dub dub dahyun 🥹",
+            "position": "16",
+            "datecreated": "2023-11-07T09:29:13.000Z",
+            "datepublished": "2023-11-07T09:29:13.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1721822100166435097"
+          },
+          {
+            "identifier": "1721523010056720878",
+            "commentcount": "1",
+            "articlebody": "I love you so much 🥹🤍",
+            "position": "17",
+            "datecreated": "2023-11-06T13:40:44.000Z",
+            "datepublished": "2023-11-06T13:40:44.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523010056720878"
+          },
+          {
+            "identifier": "1721523014230016246",
+            "commentcount": "0",
+            "articlebody": "ctto",
+            "ispartof": "https://twitter.com/dahyunsarchives/status/1721523010056720878",
+            "position": "18",
+            "datecreated": "2023-11-06T13:40:45.000Z",
+            "datepublished": "2023-11-06T13:40:45.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1721523014230016246"
+          },
+          {
+            "identifier": "1721469605221179741",
+            "commentcount": "19",
+            "articlebody": "don’t forget to vote! TWICE WORLDWIDE FANS CHOICE #TWICEforMAMA2023 @JYPETWICE",
+            "position": "19",
+            "datecreated": "2023-11-06T10:08:31.000Z",
+            "datepublished": "2023-11-06T10:08:31.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1721469605221179741"
+          },
+          {
+            "identifier": "1721370268885524669",
+            "commentcount": "1",
+            "articlebody": "LOOK AT HER HAIR",
+            "position": "20",
+            "datecreated": "2023-11-06T03:33:48.000Z",
+            "datepublished": "2023-11-06T03:33:48.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370268885524669"
+          },
+          {
+            "identifier": "1721370273021088198",
+            "commentcount": "0",
+            "articlebody": "ctto",
+            "ispartof": "https://twitter.com/dahyunsarchives/status/1721370268885524669",
+            "position": "21",
+            "datecreated": "2023-11-06T03:33:49.000Z",
+            "datepublished": "2023-11-06T03:33:49.000Z",
+            "url": "https://twitter.com/dahyunsarchives/status/1721370273021088198"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "do you guys know why Dahyun's not here? : r/twice",
+      "htmlTitle": "do you guys know why <b>Dahyun&#39;s</b> not here? : r/<b>twice</b>",
+      "link": "https://www.reddit.com/r/twice/comments/z8uh61/do_you_guys_know_why_dahyuns_not_here/",
+      "displayLink": "www.reddit.com",
+      "snippet": "Nov 30, 2022 ... do you guys know why Dahyun's not here? ... Archived post. New comments cannot be posted and votes cannot be cast. ... Maybe they filmed this when ...",
+      "htmlSnippet": "Nov 30, 2022 <b>...</b> do you guys know why <b>Dahyun&#39;s</b> not here? ... Archived post. New comments cannot be posted and votes cannot be cast. ... Maybe they filmed this when&nbsp;...",
+      "formattedUrl": "https://www.reddit.com/r/.../do_you_guys_know_why_dahyuns_not_here/",
+      "htmlFormattedUrl": "https://www.reddit.com/r/.../do_you_guys_know_why_<b>dahyun</b>s_not_here/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAO9KOD8ZcUde-SbZUvgcevJ2SUmXIW_GZ4hUD79IOjACQVgiPJo809rg",
+            "width": "161",
+            "height": "314"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://preview.redd.it/do-you-guys-know-why-dahyuns-not-here-v0-gfu1drrbf53a1.png?auto=webp&s=37e63f3ce5c17bce75547a5501d10ef2459b6717",
+            "theme-color": "#000000",
+            "og:image:width": "720",
+            "og:type": "website",
+            "og:image:alt": "Your 2022 Wrapped Your Artist Messages TWICE Following 15.6M followers      TWICE 2022 Spotify Wrapped : Home Search Your Library",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/twice on Reddit: do you guys know why Dahyun's not here?",
+            "og:site_name": "Reddit",
+            "og:title": "r/twice on Reddit: do you guys know why Dahyun's not here?",
+            "og:image:height": "1406",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/2soursoursour3 - 383 votes and 31 comments",
+            "twitter:image": "https://preview.redd.it/do-you-guys-know-why-dahyuns-not-here-v0-gfu1drrbf53a1.png?auto=webp&s=37e63f3ce5c17bce75547a5501d10ef2459b6717",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/twice/comments/z8uh61/do_you_guys_know_why_dahyuns_not_here/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://preview.redd.it/do-you-guys-know-why-dahyuns-not-here-v0-gfu1drrbf53a1.png?auto=webp&s=37e63f3ce5c17bce75547a5501d10ef2459b6717"
+          }
+        ]
+      }
+    }
+  ]
+}

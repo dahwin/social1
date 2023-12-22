@@ -1,0 +1,464 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - when twice will disband",
+        "totalResults": "930000",
+        "searchTerms": "when twice will disband",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "139c361742d82487d"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - when twice will disband",
+        "totalResults": "930000",
+        "searchTerms": "when twice will disband",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "139c361742d82487d"
+      }
+    ]
+  },
+  "context": {
+    "title": "dahwin"
+  },
+  "searchInformation": {
+    "searchTime": 0.524127,
+    "formattedSearchTime": "0.52",
+    "totalResults": "930000",
+    "formattedTotalResults": "930,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Will Twice Disband at the end of year ? :scared : r/twice",
+      "htmlTitle": "<b>Will Twice Disband</b> at the end of year ? :scared : r/<b>twice</b>",
+      "link": "https://www.reddit.com/r/twice/comments/vfu5yf/will_twice_disband_at_the_end_of_year_scared/",
+      "displayLink": "www.reddit.com",
+      "snippet": "Jun 19, 2022 ... Especially since they are in a large company that can afford to keep the Twice name around for pretty much forever. Look at GIrls Generation, if ...",
+      "htmlSnippet": "Jun 19, 2022 <b>...</b> Especially since they are in a large company that can afford to keep the <b>Twice</b> name around for pretty much forever. Look at GIrls Generation, if&nbsp;...",
+      "cacheId": "xqwlUFb1AsMJ",
+      "formattedUrl": "https://www.reddit.com/.../twice/.../will_twice_disband_at_the_end_of_year...",
+      "htmlFormattedUrl": "https://www.reddit.com/.../<b>twice</b>/.../<b>will</b>_<b>twice</b>_<b>disband</b>_at_the_end_of_year...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1NXYBDSq4zgQm-Ko9EYuqO9SxhfATacEtjHepyv7F6w",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://share.redd.it/preview/post/vfu5yf",
+            "theme-color": "#000000",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "og:image:alt": "An image containing a preview of the post",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/twice on Reddit: Will Twice Disband at the end of year ? :scared",
+            "og:site_name": "Reddit",
+            "og:title": "r/twice on Reddit: Will Twice Disband at the end of year ? :scared",
+            "og:image:height": "630",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/Plutonium_1708 - No votes and 11 comments",
+            "twitter:image": "https://share.redd.it/preview/post/vfu5yf",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/twice/comments/vfu5yf/will_twice_disband_at_the_end_of_year_scared/"
+          }
+        ],
+        "cse_image": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "When is Twice going to disband? - Quora",
+      "htmlTitle": "When <b>is Twice</b> going to <b>disband</b>? - Quora",
+      "link": "https://www.quora.com/When-is-Twice-going-to-disband",
+      "displayLink": "www.quora.com",
+      "snippet": "Apr 24, 2021 ... Most K-pop groups have a 7-year contract with their agencies. In this case, Twice's contract with JYP Entertainment lasts from 2015 until 2022.",
+      "htmlSnippet": "Apr 24, 2021 <b>...</b> Most K-pop groups have a 7-year contract with their agencies. In this case, <b>Twice&#39;s</b> contract with JYP Entertainment lasts from 2015 until 2022.",
+      "formattedUrl": "https://www.quora.com/When-is-Twice-going-to-disband",
+      "htmlFormattedUrl": "https://www.quora.com/When-is-<b>Twice</b>-going-to-<b>disband</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtv60RiTbxNJgWBt_llXMxGMSVKmQd28OnCu6-Zd7hC8ToqPrSwJaZMSU",
+            "width": "206",
+            "height": "245"
+          }
+        ],
+        "metatags": [
+          {
+            "al:android:url": "intent://www.quora.com/When-is-Twice-going-to-disband#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FWhen-is-Twice-going-to-disband&logging_data=uid%3DNone;end",
+            "theme-color": "#b92b27",
+            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+            "al:android:package": "com.quora.android",
+            "fb:pages": "255232486973",
+            "twitter:widgets:theme": "light"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://qph.cf2.quoracdn.net/main-qimg-c9f9e3db3a47a0a253809902abd471dc-lq"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "TWICE would've been better off with disbandment. : r/kpoprants",
+      "htmlTitle": "<b>TWICE would</b>&#39;ve been better off with disbandment. : r/kpoprants",
+      "link": "https://www.reddit.com/r/kpoprants/comments/1275vix/twice_wouldve_been_better_off_with_disbandment/",
+      "displayLink": "www.reddit.com",
+      "snippet": "Mar 31, 2023 ... They should've disbanded but at least they have album sales. Archived post. New comments cannot be posted and votes cannot be ...",
+      "htmlSnippet": "Mar 31, 2023 <b>...</b> They <b>should</b>&#39;ve <b>disbanded</b> but at least they have album sales. Archived post. New comments cannot be posted and votes cannot be&nbsp;...",
+      "formattedUrl": "https://www.reddit.com/.../twice_wouldve_been_better_off_with_disbandm...",
+      "htmlFormattedUrl": "https://www.reddit.com/.../<b>twice</b>_wouldve_been_better_off_with_<b>disband</b>m...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://share.redd.it/preview/post/1275vix",
+            "theme-color": "#000000",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "og:image:alt": "An image containing a preview of the post",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/kpoprants on Reddit: TWICE would’ve been better off with disbandment.",
+            "og:site_name": "Reddit",
+            "og:title": "r/kpoprants on Reddit: TWICE would’ve been better off with disbandment.",
+            "og:image:height": "630",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/archaetypes - No votes and 82 comments",
+            "twitter:image": "https://share.redd.it/preview/post/1275vix",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/kpoprants/comments/1275vix/twice_wouldve_been_better_off_with_disbandment/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://share.redd.it/preview/post/1275vix"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Is Twice disbanding in 2022? - Quora",
+      "htmlTitle": "<b>Is Twice disbanding</b> in 2022? - Quora",
+      "link": "https://www.quora.com/Is-Twice-disbanding-in-2022",
+      "displayLink": "www.quora.com",
+      "snippet": "Feb 21, 2021 ... Thank you for your question. Most K-pop groups have a 7-year contract with their agencies. In this case, Twice's contract with JYP ...",
+      "htmlSnippet": "Feb 21, 2021 <b>...</b> Thank you for your question. Most K-pop groups have a 7-year contract with their agencies. In this case, <b>Twice&#39;s</b> contract with JYP&nbsp;...",
+      "formattedUrl": "https://www.quora.com/Is-Twice-disbanding-in-2022",
+      "htmlFormattedUrl": "https://www.quora.com/Is-<b>Twice</b>-<b>disband</b>ing-in-2022",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvuxcbUWJ62arVsqdp-1nfGt0KzFLM6ZTq--IsqWUB9Auga5TZ0RsDHPs",
+            "width": "282",
+            "height": "179"
+          }
+        ],
+        "metatags": [
+          {
+            "al:android:url": "intent://www.quora.com/Is-Twice-disbanding-in-2022#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-Twice-disbanding-in-2022&logging_data=uid%3DNone;end",
+            "theme-color": "#b92b27",
+            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+            "al:android:package": "com.quora.android",
+            "fb:pages": "255232486973",
+            "twitter:widgets:theme": "light"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://qph.cf2.quoracdn.net/main-qimg-76edfbd61fe8a487e6dfcdaa16b37f90-lq"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "All nine members of Twice renew their contracts with JYP ...",
+      "htmlTitle": "All nine members of <b>Twice</b> renew their contracts with JYP ...",
+      "link": "https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html",
+      "displayLink": "koreajoongangdaily.joins.com",
+      "snippet": "Jul 12, 2022 ... Oct. 20, 2022 marks Twice's seventh anniversary and the end of its first contract. \"Twice, which played a decisive role in ...",
+      "htmlSnippet": "Jul 12, 2022 <b>...</b> Oct. 20, 2022 marks <b>Twice&#39;s</b> seventh anniversary and the end of its first contract. &quot;<b>Twice</b>, which played a decisive role in&nbsp;...",
+      "cacheId": "Dg0Qv-D7rA8J",
+      "formattedUrl": "https://koreajoongangdaily.joins.com/...Twice/20220712110530512.html",
+      "htmlFormattedUrl": "https://koreajoongangdaily.joins.com/...<b>Twice</b>/20220712110530512.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxhEzH0cFFyTYNMqL9_mCMe1Z6soeyuCbrXE6u4yzQGRjSmysmDUU4OKCw",
+            "width": "251",
+            "height": "201"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://koreajoongangdaily.joins.com/data/photo/2022/07/12/09c5485c-9a52-438d-bce4-62ae4155f1f0.jpg",
+            "article:published_time": "2022-07-12T11:05:22+0900",
+            "og:type": "article",
+            "twitter:title": "All nine members of Twice renew their contracts with JYP Entertainment",
+            "twitter:card": "summary_large_image",
+            "twitter:url": "https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html",
+            "og:title": "All nine members of Twice renew their contracts with JYP Entertainment",
+            "title": "All nine members of Twice renew their contracts with JYP Entertainment",
+            "fb:pages": "190108377775039",
+            "og:description": "All nine members of Twice renewed their contracts with JYP Entertainment, according to the agency on Tuesday. The recent announcement sets the girl group free from the \"seven-year curse\" of the K-pop industry, as many acts see members leave...",
+            "article:author": "https://koreajoongangdaily.joins.com/",
+            "article:publisher": "https://koreajoongangdaily.joins.com/",
+            "twitter:image": "https://koreajoongangdaily.joins.com/data/photo/2022/07/12/09c5485c-9a52-438d-bce4-62ae4155f1f0.jpg",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+            "news_keywords": "Korea,Kpop,Twice,JYP,",
+            "twitter:description": "All nine members of Twice renewed their contracts with JYP Entertainment, according to the agency on Tuesday. The recent announcement sets the girl group free from the \"seven-year curse\" of the K-pop industry, as many acts see members leave...",
+            "og:locale": "UTF-8",
+            "og:url": "https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://koreajoongangdaily.joins.com/data/photo/2022/07/12/09c5485c-9a52-438d-bce4-62ae4155f1f0.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Is Twice getting disbanded? - Quora",
+      "htmlTitle": "<b>Is Twice</b> getting <b>disbanded</b>? - Quora",
+      "link": "https://www.quora.com/Is-Twice-getting-disbanded",
+      "displayLink": "www.quora.com",
+      "snippet": "Aug 28, 2022 ... As of my last knowledge update in September 2021, there was no official confirmation or information suggesting that Twice, the popular South ...",
+      "htmlSnippet": "Aug 28, 2022 <b>...</b> As of my last knowledge update in September 2021, there was no official confirmation or information suggesting that <b>Twice</b>, the popular South&nbsp;...",
+      "formattedUrl": "https://www.quora.com/Is-Twice-getting-disbanded",
+      "htmlFormattedUrl": "https://www.quora.com/Is-<b>Twice</b>-getting-<b>disband</b>ed",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX_wnPc68bEjDpqDL4-0opq-2EAfNWMVNHhmzDprAuhYuYhEP5L-uUT3j",
+            "width": "193",
+            "height": "260"
+          }
+        ],
+        "metatags": [
+          {
+            "al:android:url": "intent://www.quora.com/Is-Twice-getting-disbanded#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-Twice-getting-disbanded&logging_data=uid%3DNone;end",
+            "theme-color": "#b92b27",
+            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+            "al:android:package": "com.quora.android",
+            "fb:pages": "255232486973",
+            "twitter:widgets:theme": "light"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://qph.cf2.quoracdn.net/main-qimg-1bf36e26e610ab348f5569f8c1fd67b8-lq"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "All TWICE members renew contract with JYP | Yonhap News Agency",
+      "htmlTitle": "All <b>TWICE</b> members renew contract with JYP | Yonhap News Agency",
+      "link": "https://en.yna.co.kr/view/AEN20220712004800315",
+      "displayLink": "en.yna.co.kr",
+      "snippet": "Jul 12, 2022 ... The \"seven-year curse\" is a term used by K-pop fans to refer to many idol groups' tendency to disband or start to leave their companies and ...",
+      "htmlSnippet": "Jul 12, 2022 <b>...</b> The &quot;seven-year curse&quot; <b>is</b> a term used by K-pop fans to refer to many idol groups&#39; tendency to <b>disband</b> or start to leave their companies and&nbsp;...",
+      "cacheId": "Htw815W_gz4J",
+      "formattedUrl": "https://en.yna.co.kr/view/AEN20220712004800315",
+      "htmlFormattedUrl": "https://en.yna.co.kr/view/AEN20220712004800315",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVujdo0OmHs-4sVx6E1cVeifLHeZNdr8K-GM-OJarQPoZMY4oMXYqLRMI",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img9.yna.co.kr/etc/inner/EN/2022/07/12/AEN20220712004800315_01_i_P4.jpg",
+            "copyright": "Yonhapnews",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "500",
+            "article:published_time": "2022-07-12T11:43:24+09:00",
+            "og:site_name": "Yonhap News Agency",
+            "twitter:url": "https://en.yna.co.kr/view/AEN20220712004800315",
+            "title": "All TWICE members renew contract with JYP | Yonhap News Agency",
+            "twitter:creator": "@YonhapNews",
+            "og:description": "SEOUL, July 12 (Yonhap) -- All members of TWICE have renewed their contracts with JYP Ente...",
+            "article:publisher": "https://www.facebook.com/yonhapenglish",
+            "twitter:image": "https://img9.yna.co.kr/etc/inner/EN/2022/07/12/AEN20220712004800315_01_i_P4.jpg",
+            "twitter:site": "@YonhapNews",
+            "article:modified_time": "2022-07-12T11:43:24+09:00",
+            "og:see_also": "https://m-en.yna.co.kr/view/AEN20220704000900315",
+            "image": "https://img9.yna.co.kr/etc/inner/EN/2022/07/12/AEN20220712004800315_01_i_P4.jpg",
+            "og:type": "article",
+            "twitter:title": "All TWICE members renew contract with JYP | Yonhap News Agency",
+            "article:section": "Culture",
+            "author": "Shim Sun-ah",
+            "og:title": "All TWICE members renew contract with JYP | Yonhap News Agency",
+            "og:image:height": "333",
+            "yna:content_id": "AEN20220712004800315",
+            "article:author": "https://www.facebook.com/yonhapenglish",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi",
+            "twitter:description": "SEOUL, July 12 (Yonhap) -- All members of TWICE have renewed their contracts with JYP Ente...",
+            "og:locale": "en",
+            "resource-type": "article",
+            "yna:mobile_url": "https://m-en.yna.co.kr/view/AEN20220712004800315",
+            "og:url": "https://en.yna.co.kr/view/AEN20220712004800315"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img9.yna.co.kr/etc/inner/EN/2022/07/12/AEN20220712004800315_01_i_P4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How long will TWICE last? - Quora",
+      "htmlTitle": "How long <b>will TWICE</b> last? - Quora",
+      "link": "https://www.quora.com/How-long-will-TWICE-last",
+      "displayLink": "www.quora.com",
+      "snippet": "May 24, 2019 ... So if that will not change as their contract ends, they'll probably last for 10 years or so. I don't know if JYP will ever disband them or let ...",
+      "htmlSnippet": "May 24, 2019 <b>...</b> So if that <b>will</b> not change as their contract ends, they&#39;<b>ll</b> probably last for 10 years or so. I don&#39;t know if JYP <b>will</b> ever <b>disband</b> them or let&nbsp;...",
+      "formattedUrl": "https://www.quora.com/How-long-will-TWICE-last",
+      "htmlFormattedUrl": "https://www.quora.com/How-long-<b>will</b>-<b>TWICE</b>-last",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFRgS4jPerDuGtVowmYB9CR0-kD9JNTZ0-YB49nwyKzph1-A7WDIeu-Ffu",
+            "width": "241",
+            "height": "209"
+          }
+        ],
+        "metatags": [
+          {
+            "al:android:url": "intent://www.quora.com/How-long-will-TWICE-last#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FHow-long-will-TWICE-last&logging_data=uid%3DNone;end",
+            "theme-color": "#b92b27",
+            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+            "al:android:package": "com.quora.android",
+            "fb:pages": "255232486973",
+            "twitter:widgets:theme": "light"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://qph.cf2.quoracdn.net/main-qimg-336a5fa2125797ff4148e3b33d2e179b"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "End of the line: 6 K-pop group contracts ending in 2022, from Twice ...",
+      "htmlTitle": "End of the line: 6 K-pop group contracts ending in 2022, from <b>Twice</b> ...",
+      "link": "https://www.scmp.com/magazines/style/celebrity/article/3163336/end-line-7-k-pop-group-contracts-ending-2022-twice-and",
+      "displayLink": "www.scmp.com",
+      "snippet": "Jan 14, 2022 ... Some of our favourite K-pop groups' contracts are expiring this year … so will CLC, Twice, Day6 and more groups disband, or continue working ...",
+      "htmlSnippet": "Jan 14, 2022 <b>...</b> Some of our favourite K-pop groups&#39; contracts are expiring this year … so <b>will</b> CLC, <b>Twice</b>, Day6 and more groups <b>disband</b>, or continue working&nbsp;...",
+      "cacheId": "hloqmzWqDcgJ",
+      "formattedUrl": "https://www.scmp.com/.../end-line-7-k-pop-group-contracts-ending-2022-t...",
+      "htmlFormattedUrl": "https://www.scmp.com/.../end-line-7-k-pop-group-contracts-ending-2022-<b>t</b>...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXRch_Wyzw7uBW-qGlc309GXrljklxd4fV4aCaTTn7n-1HNYU1K-2O-To",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2022/01/14/f53db6da-4e71-4958-a2d3-219ee0769b09_409712da.jpg?itok=O_zBqcZC&v=1642128859",
+            "apple-itunes-app": "app-id=623201967",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2022-01-14T10:54:22+08:00",
+            "theme-color": "#ffffff",
+            "og:site_name": "South China Morning Post",
+            "al:android:package": "com.scmp.newspulse",
+            "cxenseparse:image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2022/01/14/f53db6da-4e71-4958-a2d3-219ee0769b09_409712da.jpg?itok=SFuQcGth&v=1642128859",
+            "al:ios:url": "scmp://magazines/style/celebrity/article/3163336/end-line-7-k-pop-group-contracts-ending-2022-twice-and?entity=node&type=article&id=3163336",
+            "og:description": "Some of our favourite K-pop groups’ contracts are expiring this year … so will CLC, Twice, Day6 and more groups disband, or continue working together?",
+            "al:ios:app_store_id": "623201967",
+            "pocket-site-verification": "25fd909c3fd10ded451415fc076ba8",
+            "next-head-count": "56",
+            "twitter:site": "@SCMPNews",
+            "cxenseparse:author": "Ji Won Chung",
+            "article:modified_time": "2022-01-25T18:22:44+08:00",
+            "news_keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+            "og:type": "article",
+            "article:section": "Magazines",
+            "al:ios:app_name": "SCMP",
+            "og:title": "End of the line? 6 K-pop group contracts ending in 2022",
+            "article:tag": "K-pop idols",
+            "al:android:url": "scmp://magazines/style/celebrity/article/3163336/end-line-7-k-pop-group-contracts-ending-2022-twice-and?entity=node&type=article&id=3163336",
+            "fb:app_id": "282931841805811",
+            "viewport": "width=device-width, maximum-scale=1, user-scalable=no, initial-scale=1",
+            "cxenseparse:articleid": "3163336",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.scmp.com/magazines/style/celebrity/article/3163336/end-line-7-k-pop-group-contracts-ending-2022-twice-and",
+            "al:android:app_name": "SCMP"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2022/01/14/f53db6da-4e71-4958-a2d3-219ee0769b09_409712da.jpg?itok=O_zBqcZC&v=1642128859"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Do you think TWICE will disband this year? Why or why not? - Quora",
+      "htmlTitle": "Do you think <b>TWICE will disband</b> this year? Why or why not? - Quora",
+      "link": "https://www.quora.com/Do-you-think-TWICE-will-disband-this-year-Why-or-why-not",
+      "displayLink": "www.quora.com",
+      "snippet": "Jan 24, 2022 ... Most K-pop groups have a 7-year contract with their agencies. In this case, Twice's contract with JYP Entertainment lasts from 2015 until 2022.",
+      "htmlSnippet": "Jan 24, 2022 <b>...</b> Most K-pop groups have a 7-year contract with their agencies. In this case, <b>Twice&#39;s</b> contract with JYP Entertainment lasts from 2015 until 2022.",
+      "formattedUrl": "https://www.quora.com/Do-you-think-TWICE-will-disband-this-year-Why-...",
+      "htmlFormattedUrl": "https://www.quora.com/Do-you-think-<b>TWICE</b>-<b>will</b>-<b>disband</b>-this-year-Why-...",
+      "pagemap": {
+        "metatags": [
+          {
+            "al:android:url": "intent://www.quora.com/Do-you-think-TWICE-will-disband-this-year-Why-or-why-not#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FDo-you-think-TWICE-will-disband-this-year-Why-or-why-not&logging_data=uid%3DNone;end",
+            "theme-color": "#b92b27",
+            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+            "al:android:package": "com.quora.android",
+            "fb:pages": "255232486973",
+            "twitter:widgets:theme": "light"
+          }
+        ]
+      }
+    }
+  ]
+}

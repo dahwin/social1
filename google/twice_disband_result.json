@@ -1,0 +1,354 @@
+{
+    "search_metadata": {
+        "id": "6560cea4ad7fa937be415819",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/adb779b7010d0f76/6560cea4ad7fa937be415819.json",
+        "created_at": "2023-11-24 16:26:12 UTC",
+        "processed_at": "2023-11-24 16:26:12 UTC",
+        "google_url": "https://www.google.com/search?q=twice+contract+end+date&oq=twice+contract+end+date&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/adb779b7010d0f76/6560cea4ad7fa937be415819.html",
+        "total_time_taken": 1.8
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "twice contract end date",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "twice contract end date",
+        "total_results": 209000000,
+        "time_taken_displayed": 0.36,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=twice+contract+end+date&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ0pQJegQICBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=twice+contract+end+date&tbm=nws"
+            },
+            {
+                "position": 2,
+                "title": "2023",
+                "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=Twice+contract+end+date+2023&uds=H4sIAAAAAAAA_-Oy52IxMjAyFhIvKc9MTlVIzs8rKUpMLlFIzUtRSEksSTUQKpIJwS6lANJohEsjACtAayVaAAAA&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twice+contract+end+date+2023"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=twice+contract+end+date&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=twice+contract+end+date"
+            },
+            {
+                "position": 4,
+                "title": "Renewal down payment",
+                "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=TWICE+contract+renewal+down+payment&uds=H4sIAAAAAAAA_-MK4xIJSs1LLU_MUUjJL89TKEiszE3NKxESLynPTE5VSM7PKylKTC5RSM1LUUhJLEk1YCpSDgn3dHZFSBVh0W-ESz8AkKJSj3EAAAA&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQxKsJegQIChAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TWICE+contract+renewal+down+payment"
+            },
+            {
+                "position": 5,
+                "title": "Reddit",
+                "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=Twice+contract+end+date+reddit&uds=H4sIAAAAAAAA_-Ny5mILSk1JySwREi8pz0xOVUjOzyspSkwuUUjNS1FISSxJNRAqkgvBLqVQBNZqhEsrAH4xzRpeAAAA&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQxKsJegQITBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twice+contract+end+date+reddit"
+            },
+            {
+                "position": 6,
+                "title": "Jyp entertainment",
+                "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=Jyp+entertainment+twice+contract+end+date&uds=H4sIAAAAAAAA_-OK4RL0qixQSM0rSS0qSczMywWyhMRLyjOTUxWS8_NKihKTS4CyKQopiSWpBkJFmhiqFXAo3sHIaITLIADAW1CSdwAAAA&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQxKsJegQIShAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jyp+entertainment+twice+contract+end+date"
+            },
+            {
+                "position": 7,
+                "title": "Bts",
+                "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=Twice+contract+end+date+bts&uds=H4sIAAAAAAAA_-Oy5WJ2KikWEi8pz0xOVUjOzyspSkwuUUjNS1FISSxJNRAqkg7BLqWQVFJshEsfABy3Jg1YAAAA&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQxKsJegQISRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twice+contract+end+date+bts"
+            },
+            {
+                "position": 8,
+                "title": "Renewal 2022",
+                "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=TWICE+contract+renewal+2022&uds=H4sIAAAAAAAA_-Ny4-IJSs1LLU_MUTAyMDISEi8pz0xOVUjOzyspSkwuUUjNS1FISSxJNWAqkg4J93R2RUgVIekzwqUPAFXlyfphAAAA&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQxKsJegQISxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TWICE+contract+renewal+2022"
+            },
+            {
+                "position": 9,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=twice+contract+end+date&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ0pQJegQISBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=twice+contract+end+date"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "How long is twice's contract?",
+            "snippet": "All nine bandmates of girl group Twice have renewed their contracts with JYP Entertainment, standing the test of time and the \u201cseven-year jinx.\u201d On Tuesday, the company said that the two sides have decided to continue \u201cbased on trust\u201d and \u201crenew their contracts early\u201d via a press release.",
+            "title": "Twice breaks '7-year jinx' by renewing contract with JYP",
+            "date": "Jul 13, 2022",
+            "link": "https://www.koreaherald.com/view.php?ud=20220713000674#:~:text=Twice%20(JYP%20Entertainment)-,All%20nine%20bandmates%20of%20girl%20group%20Twice%20have%20renewed%20their,early%E2%80%9D%20via%20a%20press%20release.",
+            "displayed_link": "https://www.koreaherald.com \u203a view",
+            "thumbnail": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/f02841d73f3a9d76bff706564f36534710392876a0314b96388753825ac0f5df.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlFtRmtYM014YW5SSGJGRjVMVmhmVGxGRFZEWlVXbVpTYmt0UVoyZHlZa2wzTTFSMFUwNUpVamhSV0Y5SWJtWTVjVUZRVkVORlNrdzJWSGhPYXpac1JUQm5jMUJ1RWhkd1l6Vm5XbUZ5V2sxUWVYZHJkbEZRYmw5bGIzRkJieG9pUVVwM2F5MDRZelZFYW1NMmEwZDNORTAwUjJjd01IZ3RjRTg0WVROUmNWRXlkdyIsImZjdiI6IjMiLCJlaSI6InBjNWdaYXJaTVB5d2t2UVBuX2VvcUFvIiwicWMiOiJDaGQwZDJsalpTQmpiMjUwY21GamRDQmxibVFnWkdGMFpSQUFmY1M3N1Q0IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyB0d2ljZSdzIGNvbnRyYWN0PyIsImxrIjoiR2hkMGQybGpaU0JqYjI1MGNtRmpkQ0JvYjNjZ2JHOXVadyIsImJzIjoiYy1OUzRwTDF5QzlYeU1uUFMxZklMRllvS2M5TVRsVXZWa2pPenlzcFNrd3VzWmM0R01ZbHl5WGhDWlZTU01fUEJLb3N5VmNvU3MxTExiZVhPR2VDSWwxY2twbVRvMUNlV1pLaDRCVVpZQy14dHBoTG1rc01JVjJRazFsU0FqS2h0TUJlWWs2eUFDTUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlFtRmtYM014YW5SSGJGRjVMVmhmVGxGRFZEWlVXbVpTYmt0UVoyZHlZa2wzTTFSMFUwNUpVamhSV0Y5SWJtWTVjVUZRVkVORlNrdzJWSGhPYXpac1JUQm5jMUJ1RWhkd1l6Vm5XbUZ5V2sxUWVYZHJkbEZRYmw5bGIzRkJieG9pUVVwM2F5MDRZelZFYW1NMmEwZDNORTAwUjJjd01IZ3RjRTg0WVROUmNWRXlkdyIsImZjdiI6IjMiLCJlaSI6InBjNWdaYXJaTVB5d2t2UVBuX2VvcUFvIiwicWMiOiJDaGQwZDJsalpTQmpiMjUwY21GamRDQmxibVFnWkdGMFpSQUFmY1M3N1Q0IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyB0d2ljZSdzIGNvbnRyYWN0PyIsImxrIjoiR2hkMGQybGpaU0JqYjI1MGNtRmpkQ0JvYjNjZ2JHOXVadyIsImJzIjoiYy1OUzRwTDF5QzlYeU1uUFMxZklMRllvS2M5TVRsVXZWa2pPenlzcFNrd3VzWmM0R01ZbHl5WGhDWlZTU01fUEJLb3N5VmNvU3MxTExiZVhPR2VDSWwxY2twbVRvMUNlV1pLaDRCVVpZQy14dHBoTG1rc01JVjJRazFsU0FqS2h0TUJlWWs2eUFDTUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Is twice going to renew?",
+            "snippet": "K-pop girl group TWICE has renewed its contract with JYP Entertainment. All the nine members of the group have come together to renew their respective contracts with their origin company.",
+            "title": "K-pop group TWICE members renew their contracts with JYP Entertainment",
+            "date": "Jul 12, 2022",
+            "link": "https://www.indiatoday.in/lifestyle/what-s-hot/story/k-pop-group-twice-members-renew-their-contracts-with-jyp-entertainment-1974679-2022-07-12#:~:text=K%2Dpop%20girl%20group%20TWICE,contracts%20with%20their%20origin%20company.",
+            "displayed_link": "https://www.indiatoday.in \u203a lifestyle \u203a what-s-hot \u203a story",
+            "thumbnail": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/f02841d73f3a9d76bff706564f3653476883c83d88cb45506308ea71d4de57d0.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlFtRmtYM014YW5SSGJGRjVMVmhmVGxGRFZEWlVXbVpTYmt0UVoyZHlZa2wzTTFSMFUwNUpVamhSV0Y5SWJtWTVjVUZRVkVORlNrdzJWSGhPYXpac1JUQm5jMUJ1RWhkd1l6Vm5XbUZ5V2sxUWVYZHJkbEZRYmw5bGIzRkJieG9pUVVwM2F5MDRZelZFYW1NMmEwZDNORTAwUjJjd01IZ3RjRTg0WVROUmNWRXlkdyIsImZjdiI6IjMiLCJlaSI6InBjNWdaYXJaTVB5d2t2UVBuX2VvcUFvIiwicWMiOiJDaGQwZDJsalpTQmpiMjUwY21GamRDQmxibVFnWkdGMFpSQUFmY1M3N1Q0IiwicXVlc3Rpb24iOiJJcyB0d2ljZSBnb2luZyB0byByZW5ldz8iLCJsayI6IkdoZHBjeUIwZDJsalpTQm5iMmx1WnlCMGJ5QnlaVzVsZHciLCJicyI6ImMtTlM0cEwxeUM5WHlNblBTMWZJTEZZb0tjOU1UbFV2VmtqT3p5c3BTa3d1c1pjNEdNWWx5eVhoQ1pWU1NNX1BCS29zeVZjb1NzMUxMYmVYT0dlQ0lsMWNrcG1UbzFDZVdaS2g0QlVaWUMteHRwaExta3NNSVYyUWsxbFNBaktodE1CZVlrNnlBQ01BIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlFtRmtYM014YW5SSGJGRjVMVmhmVGxGRFZEWlVXbVpTYmt0UVoyZHlZa2wzTTFSMFUwNUpVamhSV0Y5SWJtWTVjVUZRVkVORlNrdzJWSGhPYXpac1JUQm5jMUJ1RWhkd1l6Vm5XbUZ5V2sxUWVYZHJkbEZRYmw5bGIzRkJieG9pUVVwM2F5MDRZelZFYW1NMmEwZDNORTAwUjJjd01IZ3RjRTg0WVROUmNWRXlkdyIsImZjdiI6IjMiLCJlaSI6InBjNWdaYXJaTVB5d2t2UVBuX2VvcUFvIiwicWMiOiJDaGQwZDJsalpTQmpiMjUwY21GamRDQmxibVFnWkdGMFpSQUFmY1M3N1Q0IiwicXVlc3Rpb24iOiJJcyB0d2ljZSBnb2luZyB0byByZW5ldz8iLCJsayI6IkdoZHBjeUIwZDJsalpTQm5iMmx1WnlCMGJ5QnlaVzVsZHciLCJicyI6ImMtTlM0cEwxeUM5WHlNblBTMWZJTEZZb0tjOU1UbFV2VmtqT3p5c3BTa3d1c1pjNEdNWWx5eVhoQ1pWU1NNX1BCS29zeVZjb1NzMUxMYmVYT0dlQ0lsMWNrcG1UbzFDZVdaS2g0QlVaWUMteHRwaExta3NNSVYyUWsxbFNBaktodE1CZVlrNnlBQ01BIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Is twice still with JYP?",
+            "snippet": "On July 12, all members of Twice renewed their contracts with JYP Entertainment. The group's fourth Japanese studio album, Celebrate, was released on July 27 to commemorate the fifth anniversary of their debut in Japan. Its lead single of the same name was pre-released as a digital single on July 15.",
+            "title": "Twice - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Twice#:~:text=On%20July%2012%2C%20all%20members,digital%20single%20on%20July%2015.",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Twice",
+            "thumbnail": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/f02841d73f3a9d76bff706564f365347cd2250f83aaca9daef32c77bd16eb020.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlFtRmtYM014YW5SSGJGRjVMVmhmVGxGRFZEWlVXbVpTYmt0UVoyZHlZa2wzTTFSMFUwNUpVamhSV0Y5SWJtWTVjVUZRVkVORlNrdzJWSGhPYXpac1JUQm5jMUJ1RWhkd1l6Vm5XbUZ5V2sxUWVYZHJkbEZRYmw5bGIzRkJieG9pUVVwM2F5MDRZelZFYW1NMmEwZDNORTAwUjJjd01IZ3RjRTg0WVROUmNWRXlkdyIsImZjdiI6IjMiLCJlaSI6InBjNWdaYXJaTVB5d2t2UVBuX2VvcUFvIiwicWMiOiJDaGQwZDJsalpTQmpiMjUwY21GamRDQmxibVFnWkdGMFpSQUFmY1M3N1Q0IiwicXVlc3Rpb24iOiJJcyB0d2ljZSBzdGlsbCB3aXRoIEpZUD8iLCJsayI6IkdoZHBjeUIwZDJsalpTQnpkR2xzYkNCM2FYUm9JR3A1Y0EiLCJicyI6ImMtTlM0cEwxeUM5WHlNblBTMWZJTEZZb0tjOU1UbFV2VmtqT3p5c3BTa3d1c1pjNEdNWWx5eVhoQ1pWU1NNX1BCS29zeVZjb1NzMUxMYmVYT0dlQ0lsMWNrcG1UbzFDZVdaS2g0QlVaWUMteHRwaExta3NNSVYyUWsxbFNBaktodE1CZVlrNnlBQ01BIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlFtRmtYM014YW5SSGJGRjVMVmhmVGxGRFZEWlVXbVpTYmt0UVoyZHlZa2wzTTFSMFUwNUpVamhSV0Y5SWJtWTVjVUZRVkVORlNrdzJWSGhPYXpac1JUQm5jMUJ1RWhkd1l6Vm5XbUZ5V2sxUWVYZHJkbEZRYmw5bGIzRkJieG9pUVVwM2F5MDRZelZFYW1NMmEwZDNORTAwUjJjd01IZ3RjRTg0WVROUmNWRXlkdyIsImZjdiI6IjMiLCJlaSI6InBjNWdaYXJaTVB5d2t2UVBuX2VvcUFvIiwicWMiOiJDaGQwZDJsalpTQmpiMjUwY21GamRDQmxibVFnWkdGMFpSQUFmY1M3N1Q0IiwicXVlc3Rpb24iOiJJcyB0d2ljZSBzdGlsbCB3aXRoIEpZUD8iLCJsayI6IkdoZHBjeUIwZDJsalpTQnpkR2xzYkNCM2FYUm9JR3A1Y0EiLCJicyI6ImMtTlM0cEwxeUM5WHlNblBTMWZJTEZZb0tjOU1UbFV2VmtqT3p5c3BTa3d1c1pjNEdNWWx5eVhoQ1pWU1NNX1BCS29zeVZjb1NzMUxMYmVYT0dlQ0lsMWNrcG1UbzFDZVdaS2g0QlVaWUMteHRwaExta3NNSVYyUWsxbFNBaktodE1CZVlrNnlBQ01BIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Is twice splitting up?",
+            "snippet": "All nine members of Twice renewed their contracts with JYP Entertainment, according to the agency on Tuesday. The recent announcement sets the girl group free from the \"seven-year curse\" of the K-pop industry, as many acts see members leave or even disband completely after their seven-year contracts terminate.",
+            "title": "All nine members of Twice renew their contracts with JYP ...",
+            "date": "Jul 12, 2022",
+            "link": "https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html#:~:text=All%20nine%20members%20of%20Twice%20renewed%20their%20contracts%20with%20JYP,their%20seven%2Dyear%20contracts%20terminate.",
+            "displayed_link": "https://koreajoongangdaily.joins.com \u203a kpop \u203a Korea...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBnhr4LOEavotb3-Jxuk9FXFvjHBkp03Cx0yrMb5sCQQ&s",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlFtRmtYM014YW5SSGJGRjVMVmhmVGxGRFZEWlVXbVpTYmt0UVoyZHlZa2wzTTFSMFUwNUpVamhSV0Y5SWJtWTVjVUZRVkVORlNrdzJWSGhPYXpac1JUQm5jMUJ1RWhkd1l6Vm5XbUZ5V2sxUWVYZHJkbEZRYmw5bGIzRkJieG9pUVVwM2F5MDRZelZFYW1NMmEwZDNORTAwUjJjd01IZ3RjRTg0WVROUmNWRXlkdyIsImZjdiI6IjMiLCJlaSI6InBjNWdaYXJaTVB5d2t2UVBuX2VvcUFvIiwicWMiOiJDaGQwZDJsalpTQmpiMjUwY21GamRDQmxibVFnWkdGMFpSQUFmY1M3N1Q0IiwicXVlc3Rpb24iOiJJcyB0d2ljZSBzcGxpdHRpbmcgdXA/IiwibGsiOiJHaFZwY3lCMGQybGpaU0J6Y0d4cGRIUnBibWNnZFhBIiwiYnMiOiJjLU5TNHBMMXlDOVh5TW5QUzFmSUxGWW9LYzlNVGxVdlZrak96eXNwU2t3dXNaYzRHTVlseXlYaENaVlNTTV9QQktvc3lWY29TczFMTGJlWE9HZUNJbDFja3BtVG8xQ2VXWktoNEJVWllDLXh0cGhMbWtzTUlWMlFrMWxTQWpLaHRNQmVZazZ5QUNNQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlFtRmtYM014YW5SSGJGRjVMVmhmVGxGRFZEWlVXbVpTYmt0UVoyZHlZa2wzTTFSMFUwNUpVamhSV0Y5SWJtWTVjVUZRVkVORlNrdzJWSGhPYXpac1JUQm5jMUJ1RWhkd1l6Vm5XbUZ5V2sxUWVYZHJkbEZRYmw5bGIzRkJieG9pUVVwM2F5MDRZelZFYW1NMmEwZDNORTAwUjJjd01IZ3RjRTg0WVROUmNWRXlkdyIsImZjdiI6IjMiLCJlaSI6InBjNWdaYXJaTVB5d2t2UVBuX2VvcUFvIiwicWMiOiJDaGQwZDJsalpTQmpiMjUwY21GamRDQmxibVFnWkdGMFpSQUFmY1M3N1Q0IiwicXVlc3Rpb24iOiJJcyB0d2ljZSBzcGxpdHRpbmcgdXA%2FIiwibGsiOiJHaFZwY3lCMGQybGpaU0J6Y0d4cGRIUnBibWNnZFhBIiwiYnMiOiJjLU5TNHBMMXlDOVh5TW5QUzFmSUxGWW9LYzlNVGxVdlZrak96eXNwU2t3dXNaYzRHTVlseXlYaENaVlNTTV9QQktvc3lWY29TczFMTGJlWE9HZUNJbDFja3BtVG8xQ2VXWktoNEJVWllDLXh0cGhMbWtzTUlWMlFrMWxTQWpLaHRNQmVZazZ5QUNNQSIsImlkIjoiZmNfMSJ9"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Now that TWICE had renewed their contracts, for how long do ...",
+        "link": "https://www.reddit.com/r/kpopthoughts/comments/wpsc7l/now_that_twice_had_renewed_their_contracts_for/#:~:text=TWICE%20had%20renewed%20their%20contracts%20in%20July%20of%20this%20year,together%20before%20they%20part%20ways.",
+        "displayed_link": "https://www.reddit.com \u203a kpopthoughts \u203a comments",
+        "date": "Aug 16, 2022",
+        "snippet": "TWICE had renewed their contracts in July of this year. It was set to end in September 2022, but ALL of the members had decided to renew their contracts. This is a poll based on how long will they be together before they part ways.",
+        "snippet_highlighted_words": [
+            "September 2022"
+        ],
+        "about_this_result": {}
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "TWICE renews contract with JYP Entertainment",
+            "link": "https://www.rappler.com/entertainment/music/twice-renews-contract-with-jyp-entertainment/",
+            "displayed_link": "https://www.rappler.com \u203a entertainment \u203a music \u203a t...",
+            "favicon": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/dfb04c9b25baf0e0366aebeb8b04b2f5903f706d4ce87f851a185d1a00894d3f.png",
+            "date": "Jul 12, 2022",
+            "snippet": "According to a Koreaboo report, JYP Entertainment released a statement on Tuesday, July 12, to announce that all of the members decided to ...",
+            "snippet_highlighted_words": [
+                "Tuesday, July 12"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.rappler.com/entertainment/music/twice-renews-contract-with-jyp-entertainment/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.rappler.com%2Fentertainment%2Fmusic%2Ftwice-renews-contract-with-jyp-entertainment%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:l4g2dNkmdm4J:https://www.rappler.com/entertainment/music/twice-renews-contract-with-jyp-entertainment/&hl=en&gl=us",
+            "source": "Rappler"
+        },
+        {
+            "position": 2,
+            "title": "All nine members of Twice renew their contracts with JYP ...",
+            "link": "https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html",
+            "displayed_link": "https://koreajoongangdaily.joins.com \u203a kpop \u203a Korea...",
+            "favicon": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/dfb04c9b25baf0e0366aebeb8b04b2f5f63ba847acbb57378a900fd1a53d71e0.png",
+            "date": "Jul 12, 2022",
+            "snippet": "Oct. 20, 2022 marks Twice's seventh anniversary and the end of its first contract. \"Twice, which played a decisive role in ...",
+            "snippet_highlighted_words": [
+                "Oct. 20, 2022"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkoreajoongangdaily.joins.com%2F2022%2F07%2F12%2Fentertainment%2Fkpop%2FKorea-Kpop-Twice%2F20220712110530512.html",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Dg0Qv-D7rA8J:https://koreajoongangdaily.joins.com/2022/07/12/entertainment/kpop/Korea-Kpop-Twice/20220712110530512.html&hl=en&gl=us",
+            "source": "Korea JoongAng Daily"
+        },
+        {
+            "position": 3,
+            "title": "TWICE Forever: Nayeon shares reason for group's contract ...",
+            "link": "https://republicasiamedia.com/twicerenew/",
+            "displayed_link": "https://republicasiamedia.com \u203a All stories",
+            "favicon": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/dfb04c9b25baf0e0366aebeb8b04b2f5bbc44665b2c3a472f378c6198df4ef5c.png",
+            "date": "Dec 21, 2022",
+            "snippet": "TWICE signed a seven-year contract with JYP Entertainment and the contract was supposed to end in October this year. TWICE's new project in 2023.",
+            "snippet_highlighted_words": [
+                "October this"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://republicasiamedia.com/twicerenew/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frepublicasiamedia.com%2Ftwicerenew%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mxflMAhGpMMJ:https://republicasiamedia.com/twicerenew/&hl=en&gl=us",
+            "source": "RepublicAsia"
+        },
+        {
+            "position": 4,
+            "title": "TWICE: All nine members renew their contract with JYP ...",
+            "link": "https://www.sportskeeda.com/pop-culture/news-twice-all-nine-members-renew-contract-jyp-entertainment",
+            "displayed_link": "https://www.sportskeeda.com \u203a POP Culture News",
+            "favicon": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/dfb04c9b25baf0e0366aebeb8b04b2f55064548d3f5480d2d7d301a4393484d9.png",
+            "date": "Jul 12, 2022",
+            "snippet": "The talented girl group debuted in October 2015, meaning their initial seven-year contracts were set to expire in October 2022. sk-advertise- ...",
+            "snippet_highlighted_words": [
+                "October 2022"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.sportskeeda.com/pop-culture/news-twice-all-nine-members-renew-contract-jyp-entertainment&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sportskeeda.com%2Fpop-culture%2Fnews-twice-all-nine-members-renew-contract-jyp-entertainment",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0UkBGwSEeA4J:https://www.sportskeeda.com/pop-culture/news-twice-all-nine-members-renew-contract-jyp-entertainment&hl=en&gl=us",
+            "source": "Sportskeeda"
+        },
+        {
+            "position": 5,
+            "title": "Twice breaks '7-year jinx' by renewing contract with JYP",
+            "link": "https://www.koreaherald.com/view.php?ud=20220713000674",
+            "displayed_link": "https://www.koreaherald.com \u203a view",
+            "favicon": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/dfb04c9b25baf0e0366aebeb8b04b2f57a882c3e05753636865caa2ff8279712.png",
+            "date": "Jul 13, 2022",
+            "snippet": "Ahead of dropping their 11th EP on Aug. 26, all nine members renewed contracts with agency ... All nine bandmates of girl group Twice have renewed ...",
+            "snippet_highlighted_words": [
+                "Aug. 26"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.koreaherald.com/view.php?ud=20220713000674&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.koreaherald.com%2Fview.php%3Fud%3D20220713000674",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_gijN8HQ2JYJ:https://www.koreaherald.com/view.php%3Fud%3D20220713000674&hl=en&gl=us",
+            "source": "The Korea Herald"
+        },
+        {
+            "position": 6,
+            "title": "K-pop group Twice breaks '7-year jinx' by renewing ...",
+            "link": "https://www.straitstimes.com/life/entertainment/k-pop-group-twice-breaks-7-year-jinx-by-renewing-contract-with-agency",
+            "displayed_link": "https://www.straitstimes.com \u203a life \u203a entertainment",
+            "favicon": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/dfb04c9b25baf0e0366aebeb8b04b2f54cfe9e6c53596b2c3618ed55c1d22b97.png",
+            "date": "Jul 13, 2022",
+            "snippet": "On Tuesday (July 12), a press release said that the band members' exclusive contracts were due to expire in autumn, but they all chose to stay ...",
+            "snippet_highlighted_words": [
+                "autumn"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.straitstimes.com/life/entertainment/k-pop-group-twice-breaks-7-year-jinx-by-renewing-contract-with-agency&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.straitstimes.com%2Flife%2Fentertainment%2Fk-pop-group-twice-breaks-7-year-jinx-by-renewing-contract-with-agency",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:D1Bg76okSMwJ:https://www.straitstimes.com/life/entertainment/k-pop-group-twice-breaks-7-year-jinx-by-renewing-contract-with-agency&hl=en&gl=us",
+            "source": "The Straits Times"
+        },
+        {
+            "position": 7,
+            "title": "TWICE open up on contract renewal with JYP Entertainment",
+            "link": "https://www.nme.com/news/music/twice-contract-renewal-jyp-entertainment-3298211",
+            "displayed_link": "https://www.nme.com \u203a News \u203a Music News",
+            "favicon": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/dfb04c9b25baf0e0366aebeb8b04b2f5e12425e648466198d78b28814f2b7c6b.png",
+            "date": "Aug 26, 2022",
+            "snippet": "TWICE have opened up about how all nine members of the group came to renew their contracts with longtime label JYP Entertainment.",
+            "snippet_highlighted_words": [
+                "TWICE"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nme.com/news/music/twice-contract-renewal-jyp-entertainment-3298211&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nme.com%2Fnews%2Fmusic%2Ftwice-contract-renewal-jyp-entertainment-3298211",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7ryJr5sXapIJ:https://www.nme.com/news/music/twice-contract-renewal-jyp-entertainment-3298211&hl=en&gl=us",
+            "source": "NME"
+        },
+        {
+            "position": 8,
+            "title": "Only 9 Groups In K-Pop History Have Renewed Their ...",
+            "link": "https://www.koreaboo.com/lists/9-groups-in-kpop-history-renewed-contracts-kept-original-lineup/",
+            "displayed_link": "https://www.koreaboo.com \u203a lists \u203a 9-groups-in-kpo...",
+            "favicon": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/dfb04c9b25baf0e0366aebeb8b04b2f5ca962464a2f57cb7e8da81680a016bbd.png",
+            "date": "Sep 9, 2023",
+            "snippet": "But in July 2022, JYP Entertainment shared all nine TWICE members decided to renew their contracts.",
+            "snippet_highlighted_words": [
+                "July 2022"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.koreaboo.com/lists/9-groups-in-kpop-history-renewed-contracts-kept-original-lineup/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.koreaboo.com%2Flists%2F9-groups-in-kpop-history-renewed-contracts-kept-original-lineup%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OYU7dsHMEeMJ:https://www.koreaboo.com/lists/9-groups-in-kpop-history-renewed-contracts-kept-original-lineup/&hl=en&gl=us",
+            "source": "Koreaboo"
+        },
+        {
+            "position": 9,
+            "title": "K-pop groups that renewed their contracts in 2022",
+            "link": "https://www.allkpop.com/article/2022/12/k-pop-groups-that-renewed-their-contracts-in-2022-1672165617",
+            "displayed_link": "https://www.allkpop.com \u203a article \u203a 2022/12 \u203a k-pop-...",
+            "favicon": "https://serpapi.com/searches/6560cea4ad7fa937be415819/images/dfb04c9b25baf0e0366aebeb8b04b2f587bf5cbe52c7f440bb2f417ed27b086f.png",
+            "date": "Dec 27, 2022",
+            "snippet": "With a seven-year contract with the company, TWICE made their debut in 2015. All nine members of the girl group renewed their contracts with ...",
+            "snippet_highlighted_words": [
+                "2015"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.allkpop.com/article/2022/12/k-pop-groups-that-renewed-their-contracts-in-2022-1672165617&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.allkpop.com%2Farticle%2F2022%2F12%2Fk-pop-groups-that-renewed-their-contracts-in-2022-1672165617",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DGh5wP0bdrkJ:https://www.allkpop.com/article/2022/12/k-pop-groups-that-renewed-their-contracts-in-2022-1672165617&hl=en&gl=us",
+            "source": "allkpop"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Twice contract end date bts",
+            "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=Twice+contract+end+date+bts&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twice+contract+end+date+bts"
+        },
+        {
+            "block_position": 1,
+            "query": "twice contract end date 2023",
+            "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=Twice+contract+end+date+2023&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twice+contract+end+date+2023"
+        },
+        {
+            "block_position": 1,
+            "query": "Jyp entertainment twice contract end date",
+            "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=Jyp+entertainment+twice+contract+end+date&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jyp+entertainment+twice+contract+end+date"
+        },
+        {
+            "block_position": 1,
+            "query": "Twice contract end date reddit",
+            "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=Twice+contract+end+date+reddit&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ1QJ6BAg-EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twice+contract+end+date+reddit"
+        },
+        {
+            "block_position": 1,
+            "query": "twice contract 2027",
+            "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=Twice+contract+2027&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ1QJ6BAhFEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twice+contract+2027"
+        },
+        {
+            "block_position": 1,
+            "query": "twice contract renewal down payment",
+            "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=TWICE+contract+renewal+down+payment&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ1QJ6BAhGEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TWICE+contract+renewal+down+payment"
+        },
+        {
+            "block_position": 1,
+            "query": "twice contract renewal how long",
+            "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=TWICE+contract+renewal+how+long&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TWICE+contract+renewal+how+long"
+        },
+        {
+            "block_position": 1,
+            "query": "twice contract renewal 2022",
+            "link": "https://www.google.com/search?sca_esv=b3fe2e22a9d166d7&q=TWICE+contract+renewal+2022&sa=X&ved=2ahUKEwjqv8XJht2CAxV8mIQIHZ87CqUQ1QJ6BAg_EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TWICE+contract+renewal+2022"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=twice+contract+end+date&oq=twice+contract+end+date&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=twice+contract+end+date&oq=twice+contract+end+date&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=twice+contract+end+date&oq=twice+contract+end+date&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=twice+contract+end+date&oq=twice+contract+end+date&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=twice+contract+end+date&oq=twice+contract+end+date&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=twice+contract+end+date&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=twice+contract+end+date&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=twice+contract+end+date&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=twice+contract+end+date&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=twice+contract+end+date&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=twice+contract+end+date&start=40"
+        }
+    }
+}
